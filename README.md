@@ -1,3 +1,10 @@
+# Updaten auf Netlify
+
+git add .
+git commit -m "Commit-Nachricht"
+git push
+📦 Netlify sollte nach 1–2 Minuten deine Änderung online zeigen.
+
 # Ap2Lernwebseite
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
