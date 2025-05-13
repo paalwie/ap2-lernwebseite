@@ -1,8 +1,8 @@
 # Updaten auf Netlify
 
-git add .
-git commit -m "Commit-Nachricht"
-git push
+git add . <br>
+git commit -m "Commit-Nachricht" <br>
+git push <br>
 📦 Netlify sollte nach 1–2 Minuten deine Änderung online zeigen.
 
 # Ap2Lernwebseite
