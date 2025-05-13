@@ -5,6 +5,11 @@ git commit -m "Commit-Nachricht" <br>
 git push <br>
 📦 Netlify sollte nach 1–2 Minuten deine Änderung online zeigen.
 
+# Seite anzeigen
+
+netlify open:site<p>
+in Konsole eingeben und auf Link klicken
+
 # Ap2Lernwebseite
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
