@@ -1,0 +1,8 @@
+.footer {
+  background-color: red;
+  height: 100%; /* Nimmt die volle Höhe des <app-footer> ein */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

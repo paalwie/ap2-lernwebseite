@@ -1,0 +1,30 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Nimmt die volle Höhe des body ein */
+}
+
+app-header {
+  height: 20%; /* Header mit 20% der Bildschirmhöhe */
+}
+
+.content-area {
+  display: flex;
+  flex-grow: 1; /* Nimmt den verbleibenden Platz zwischen Header und Footer ein */
+  height: 70%; /* Definiert die Höhe des Bereichs für Sidebar und Hauptinhalt */
+}
+
+app-sidebar {
+  width: 25%; /* Feste Breite für die Sidebar (anpassbar) */
+  max-width: 350px; /* Maximale Breite der Sidebar */
+  min-width: 200px; /* Minimale Breite der Sidebar */
+}
+
+.main-content {
+  flex-grow: 1; /* Lässt den Hauptinhalt den restlichen horizontalen Platz einnehmen */
+  overflow: auto; /* Fügt Scrollbalken hinzu, wenn der Inhalt zu lang wird */
+}
+
+app-footer {
+  height: 10%; /* Footer mit 10% der Bildschirmhöhe */
+}

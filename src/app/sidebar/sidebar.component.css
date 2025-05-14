@@ -1,0 +1,11 @@
+.sidebar {
+  background-color: green;
+  height: 100%; /* Nimmt die volle Höhe des .content-area ein */
+  text-align: center;
+  /* width wird im app.component.css gesteuert */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem; /* Optional: etwas Innenabstand */
+  overflow-y: auto; /* Fügt Scrollbalken hinzu, wenn der Inhalt zu lang wird */
+}
