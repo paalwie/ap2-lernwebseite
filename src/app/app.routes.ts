@@ -7,5 +7,8 @@ export const routes: Routes = [
   },
   {
     path: '', redirectTo: '/content', pathMatch: 'full'
-  }
+  },
+  {
+    path: 'content/:file', component: ContentComponent
+  },
 ];

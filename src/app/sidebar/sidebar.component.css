@@ -1,11 +1,52 @@
 .sidebar {
-  background-color: green;
-  height: 100%; /* Nimmt die volle Höhe des .content-area ein */
-  text-align: center;
-  /* width wird im app.component.css gesteuert */
+  background-color: #f8f8f8; /* Hellerer Hintergrund für die Sidebar */
+  height: 100%;
+  padding: 20px;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 1rem; /* Optional: etwas Innenabstand */
-  overflow-y: auto; /* Fügt Scrollbalken hinzu, wenn der Inhalt zu lang wird */
+  align-items: stretch; /* Elemente nehmen die volle Breite ein */
+}
+
+.sidebar h2 {
+  color: #333;
+  margin-bottom: 20px;
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.thema-gruppe {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.thema-gruppe h3 {
+  color: #555;
+  margin-bottom: 10px;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 8px;
+}
+
+.sidebar a {
+  display: block;
+  color: #333;
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 3px;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #eee;
+  color: #00bcd4; /* Akzentfarbe beim Hover */
 }

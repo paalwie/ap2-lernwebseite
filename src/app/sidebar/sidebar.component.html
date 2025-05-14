@@ -1,11 +1,21 @@
 <div class="sidebar">
-  <h2>Sidebar</h2>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
+  <h2 style="cursor: pointer;" (click)="navigateToHome()">Navigation</h2>
+  <nav>
+    <div *ngIf="themen.length > 0; else keineThemen">
+      <div *ngFor="let thema of themen" class="thema-gruppe">
+        <h3>{{ thema.name }}</h3>
+        <ul *ngIf="thema.unterpunkte.length > 0; else keineUnterpunkte">
+          <li *ngFor="let punkt of thema.unterpunkte">
+            <a (click)="showContent(punkt.markdown)">{{ punkt.name }}</a>
+          </li>
+        </ul>
+        <ng-template #keineUnterpunkte>
+          <ul><li>Keine Unterpunkte vorhanden.</li></ul>
+        </ng-template>
+      </div>
+    </div>
+    <ng-template #keineThemen>
+      <p>Bitte oben im Header ein Thema auswählen!</p>
+    </ng-template>
+  </nav>
 </div>

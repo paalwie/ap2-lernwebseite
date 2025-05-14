@@ -2,9 +2,12 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  box-sizing: border-box; /* Wichtig für einheitliches Box-Modell */
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; /* Schriftart hinzufügen */
+  color: #333; /* Standard-Textfarbe */
+  background-color: #f4f4f4; /* Hintergrundfarbe für die Seite */
 }
 
 *, ::before, ::after {
-  box-sizing: inherit; /* Vererbt box-sizing an alle Elemente */
+  box-sizing: inherit;
 }

@@ -1,0 +1,137 @@
+{ "pruefungen": [
+    { "name": "Übergreifende berufliche Kompetenzen",
+    "unterthemen": [ {
+        "name": "Kunden informieren und beraten",
+        "themen": [ {
+            "name": "Aktives Zuhören",
+            "unterpunkte": [ {
+                "name": "Telefonkonferenzen", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Chat", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+             "name": "Kundenbeziehungen",
+            "unterpunkte": [ {
+                "name": "BGB/HGB", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "AGB-Gesetz", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Daten und Sachverhalte interpretieren",
+            "unterpunkte": [ {
+                "name": "Präsentationstechnik", "markdown": "assets/content/ap1/programmierung/listen.md" } ] } ] }, {
+        "name": "IT-Lösungen entwickeln und betreuen",
+        "themen": [ {
+            "name": "Fehler erkennen und analysieren",
+            "unterpunkte": [ {
+                "name": "Debugging", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Software-Test", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Algorithmen formulieren",
+            "unterpunkte": [ {
+                "name": "Kontrollstrukturen abbilden", "markdown": "assets/content/ap1/programmierung/listen.md" } ] } ] }, {
+        "name": "Qualitätssicherung und Dokumentation",
+        "themen": [ {
+            "name": "Qualitätslenkung anwenden",
+            "unterpunkte": [ {
+                "name": "Prüfverfahren", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Black/White-Box Tests", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "QM-Prozesse kennen und anwenden",
+            "unterpunkte": [ {
+                "name": "PDCA-Zyklus", "markdown": "assets/content/ap1/programmierung/listen.md" } ] } ] }, {
+        "name": " IT-Sicherheits- und Datenschutzmaßnahmen umsetzen und prüfen",
+        "themen": [ {
+            "name": "Schadenspotenziale",
+            "unterpunkte": [ {
+                "name": "Imageschaden", "markdown": "assets/content/ap1/netzwerke/tcpip.md" } ] } ] } ] },
+    { "name": "Fachspezifische Kompetenzen Anwendungsentwicklung",
+    "unterthemen": [ {
+        "name": "IT-Systembetrieb",
+        "themen": [ {
+            "name": "Schichtenmodelle",
+            "unterpunkte": [ {
+                "name": "IPv4/IPv6", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "MAC", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Netzwerkkomponenten",
+            "unterpunkte": [ {
+                "name": "Switch", "markdown": "assets/content/ap2/systemintegration/iaas.md" }, {
+                "name": "Bridge", "markdown": "assets/content/ap2/systemintegration/paas.md" } ] } ] }, {
+        "name": "Speicherlösungen in Betrieb nehmen",
+        "themen": [ {
+            "name": "Technische Organisatorische Maßnahmen",
+            "unterpunkte": [ {
+                "name": "Berechtigungskonzepte", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Physische/hardwaretechnische Absicherung",
+            "unterpunkte": [ {
+                "name": "Zugangskontrollen", "markdown": "assets/content/ap2/systemintegration/iaas.md" }, {
+                "name": "Elementarrisiken", "markdown": "assets/content/ap2/systemintegration/paas.md" } ] } ] }, {
+        "name": "Entwicklung von Software",
+        "themen": [ {
+            "name": "Softwareanforderungen erfassen",
+            "unterpunkte": [ {
+                "name": "Erweiterbarkeit", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Benutzbarkeit", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Planen mit Modellen",
+            "unterpunkte": [ {
+                "name": "ERM", "markdown": "assets/content/ap2/systemintegration/iaas.md" }, {
+                "name": "Mock-Up", "markdown": "assets/content/ap2/systemintegration/paas.md" } ] } ] }, {
+        "name": "Kundenspezifische Software entwickeln",
+        "themen": [ {
+            "name": "Vorgehensmodelle",
+            "unterpunkte": [ {
+                "name": "Klassische Modelle", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Agile Modelle", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Analyse- und Designverfahren",
+            "unterpunkte": [ {
+                "name": "Top-down-Entwurf", "markdown": "assets/content/ap2/systemintegration/iaas.md" }, {
+                "name": "Bottum-up-Entwurf", "markdown": "assets/content/ap2/systemintegration/paas.md" } ] } ] }, {
+        "name": "Qualitätssicherung von Software",
+        "themen": [ {
+            "name": "Anwendung von Datenschutz und Datensicherheit",
+            "unterpunkte": [ {
+                "name": "Datenschutz", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Datensicherheit", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Datenintegrität",
+            "unterpunkte": [ {
+                "name": "Validierungen", "markdown": "assets/content/ap2/sicherheit/firewall.md" } ] } ] } ] },
+    { "name": "Wirtschafts- und Sozialkunde",
+    "unterthemen": [ {
+        "name": "Berufsausbildung und Arbeitsrecht",
+        "themen": [ {
+            "name": "Rechte und Pflichten des Ausbilders und Azubis",
+            "unterpunkte": [ {
+                "name": "Vertragspartner", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Beginn und Dauer der Ausbildung", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Vorteile der Ausbildung im dualen System",
+            "unterpunkte": [ {
+                "name": "Absprachen", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+        "name": "Organisation des Ausbildungsbetriebs",
+        "themen": [ {
+            "name": "Der Betrieb",
+            "unterpunkte": [ {
+                "name": "Branchenzugehörigkeit", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Gesamtwirtschaft", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Rechtsformen",
+            "unterpunkte": [ {
+                "name": "Gesellschafts bürgerlichen Rechts", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+        "name": "Schutzmaßnahmen am Arbeitsplatz",
+        "themen": [ {
+            "name": "Gesundheits- und Arbeitsschutzvorschriften",
+            "unterpunkte": [ {
+                "name": "Arbeitsschutzgesetz", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Arbeitszeitgesetz", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Gefährdungen und Beanspruchungen wahrnehmen",
+            "unterpunkte": [ {
+                "name": "Mechanisch und elektrisch", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+        "name": "Beitrag zum betrieblichen Umweltschutz",
+        "themen": [ {
+            "name": "Umweltbelastungen wahrnehmen und vermeiden helfen",
+            "unterpunkte": [ {
+                "name": "Rationelle Energie- und Ressourcenverwendung", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Abfalltrennung", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Umgang mit Abfällen",
+            "unterpunkte": [ {
+                "name": "Branchenspezifische Abfälle", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+        "name": "Digitale Zusammenarbeit und Vernetzung",
+        "themen": [ {
+            "name": "Wertschätzende Zusammenarbeit",
+            "unterpunkte": [ {
+                "name": "Interdisziplinarität", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
+                "name": "Unternehmenswerte beachten", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+            "name": "Ethische Aspekte und Compliance-Regelungen",
+            "unterpunkte": [ {
+                "name": "Diversity", "markdown": "assets/content/bwl/marketing/place.md" }, {
+                "name": "Gender-Neutralität", "markdown": "assets/content/bwl/marketing/promotion.md" } ] } ] } ] } ]}

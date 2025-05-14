@@ -1,5 +1,14 @@
 <div class="header">
-  <h2>Header</h2>
-  <p>This is some text in a div element.</p>
-  <p>This is some text in a div element.</p>
+  <h1>Lernwebseite für die AP2 von Fachinformatiker/Anwendungsentwicklung</h1> <div class="pruefungen">
+    <button *ngFor="let p of data?.pruefungen" (click)="setPruefung(p)" class="button primary">
+      {{ p.name }}
+    </button>
+  </div>
+
+  <div class="unterthemen" *ngIf="aktiveUnterthemen">
+    <div class="unterthemen-label">Auswahl:</div>
+    <button *ngFor="let ut of aktiveUnterthemen" (click)="setUnterthema(ut)" class="button secondary">
+      {{ ut.name }}
+    </button>
+  </div>
 </div>
