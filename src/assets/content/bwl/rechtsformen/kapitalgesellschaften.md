@@ -1,0 +1,3 @@
+# kapitalgesellschaften
+
+Inhalt folgt...

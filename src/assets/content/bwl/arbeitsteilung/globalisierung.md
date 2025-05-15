@@ -1,0 +1,3 @@
+# globalisierung
+
+Inhalt folgt...

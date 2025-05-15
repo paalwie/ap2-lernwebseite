@@ -504,38 +504,175 @@
                 "name": "Pro und Cons von Existenzgründung", "markdown": "assets/content/bwl/kostenrechnung/existenzgruendung.md" } ] } ] }, {
         "name": "Organisation des Ausbildungsbetriebs",
         "themen": [ {
-            "name": "Der Betrieb",
+            "name": "Grundlagen des Betriebs",
             "unterpunkte": [ {
-                "name": "Branchenzugehörigkeit", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
-                "name": "Gesamtwirtschaft", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
+                "name": "Branchenzugehörigkeit", "markdown": "assets/content/bwl/betriebgrundlagen/branchen.md" }, {
+                "name": "Primärer, sekundärer,... Sektor", "markdown": "assets/content/bwl/betriebgrundlagen/sektoren.md" }, {
+                "name": "Märkte und Produktpalette", "markdown": "assets/content/bwl/betriebgrundlagen/maerkte.md" } ] }, {
             "name": "Rechtsformen",
             "unterpunkte": [ {
-                "name": "Gesellschafts bürgerlichen Rechts", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+                "name": "GbR", "markdown": "assets/content/bwl/rechtsformen/gbr.md" }, {
+                "name": "Personengesellschaften wie z.B. OHG", "markdown": "assets/content/bwl/rechtsformen/personengesellschaften.md" }, {
+                "name": "Kapitalgesellschaften wie z.B. AG", "markdown": "assets/content/bwl/rechtsformen/kapitalgesellschaften.md" }, {
+                "name": "Gemeinnützige Organisation", "markdown": "assets/content/bwl/rechtsformen/gemeinnuetzigeorganisation.md" } ] }, {
+            "name": "Unternehmensstruktur und Organisation",
+            "unterpunkte": [ {
+                "name": "Liniensysteme", "markdown": "assets/content/bwl/unternehmensstruktur/linien.md" }, {
+                "name": "Spartenorganisation", "markdown": "assets/content/bwl/unternehmensstruktur/sparten.md" }, {
+                "name": "Matrixorganisation", "markdown": "assets/content/bwl/unternehmensstruktur/matrix.md" }, {
+                "name": "Arbeitsabläufe", "markdown": "assets/content/bwl/unternehmensstruktur/arbeitsablaeufe.md" }, {
+                "name": "Aufgabenteilung", "markdown": "assets/content/bwl/unternehmensstruktur/aufgabenteilung.md" } ] }, {
+            "name": "Vernetzung in der Wirtschaft",
+            "unterpunkte": [ {
+                "name": "Konzern", "markdown": "assets/content/bwl/vernetzung/konzern.md" }, {
+                "name": "Kartell", "markdown": "assets/content/bwl/vernetzung/kartell.md" }, {
+                "name": "Fusion", "markdown": "assets/content/bwl/vernetzung/fusion.md" } ] }, {
+            "name": "Unternehmensziele",
+            "unterpunkte": [ {
+                "name": "Produktivität", "markdown": "assets/content/bwl/unternehmensziele/produktivitaet.md" }, {
+                "name": "Wirtschaftlichkeit", "markdown": "assets/content/bwl/unternehmensziele/wirtschaftlichkeit.md" }, {
+                "name": "Rentabilität", "markdown": "assets/content/bwl/unternehmensziele/rentabilitaet.md" }, {
+                "name": "Zielkonflikte", "markdown": "assets/content/bwl/unternehmensziele/zielkonflikte.md" } ] }, {
+            "name": "Arbeitsteilung (betrieblich und gesamtwirtschaftlich)",
+            "unterpunkte": [ {
+                "name": "Globalisierung", "markdown": "assets/content/bwl/arbeitsteilung/globalisierung.md" }, {
+                "name": "Soziale Marktwirtschaft", "markdown": "assets/content/bwl/arbeitsteilung/marktwirtschaft.md" } ] }, {
+            "name": "Aufgaben und Ziele von Interessenvertretungen (Arbeitgeber/Arbeitnehmer)",
+            "unterpunkte": [ {
+                "name": "Arbeitgeberverbände und Gewerktschaften", "markdown": "assets/content/bwl/interessen/gewerkschaften.md" }, {
+                "name": "Wirtschaftsorganisationen", "markdown": "assets/content/bwl/interessen/wirtschaftsorga.md" }, {
+                "name": "Vertretungen und Organisationen", "markdown": "assets/content/bwl/interessen/vertretungen.md" }, {
+                "name": "Ehrenamtliche Mitwirkungen", "markdown": "assets/content/bwl/interessen/ehrenamtlich.md" } ] }, {
+            "name": "Rolle und Aufgaben staatlicher Institutionen",
+            "unterpunkte": [ {
+                "name": "Ziele und Aufgaben", "markdown": "assets/content/bwl/institution/zieleundaufgaben.md" } ] }, {
+            "name": "Vertrauensvolle Zusammenarbeit im Betrieb",
+            "unterpunkte": [ {
+                "name": "Betriebsverfassungsgesetzes", "markdown": "assets/content/bwl/arbeitimbetrieb/betriebsverfassungsgesetz.md" }, {
+                "name": "Betriebsrat", "markdown": "assets/content/bwl/arbeitimbetrieb/betriebsrat.md" }, {
+                "name": "Jugend- und Azubivertretung", "markdown": "assets/content/bwl/arbeitimbetrieb/vertretung.md" }, {
+                "name": "Betriebsvereinbarungen auf Basis des Personalvertretungsgesetzes", "markdown": "assets/content/bwl/arbeitimbetrieb/vereinbarungen.md" } ] } ] }, {
         "name": "Schutzmaßnahmen am Arbeitsplatz",
         "themen": [ {
-            "name": "Gesundheits- und Arbeitsschutzvorschriften",
+            "name": "Grundlagen des Gesundheits- und Arbeitsschutzes",
             "unterpunkte": [ {
-                "name": "Arbeitsschutzgesetz", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
-                "name": "Arbeitszeitgesetz", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
-            "name": "Gefährdungen und Beanspruchungen wahrnehmen",
+                "name": "Arbeitsschutzgesetz", "markdown": "assets/content/bwl/arbeitschutzes/gesetz.md" }, {
+                "name": "Arbeitssicherheitsgesetz", "markdown": "assets/content/bwl/arbeitschutzes/sicherheitsgesetz.md" }, {
+                "name": "Arbeitszeitgesetz", "markdown": "assets/content/bwl/arbeitschutzes/zeitgesetz.md" }, {
+                "name": "Betriebssicherheitsverordnung", "markdown": "assets/content/bwl/arbeitschutzes/verordnung.md" }, {
+                "name": "Arbeitsstättenverordnung", "markdown": "assets/content/bwl/arbeitschutzes/staettenverordnung.md" }, {
+                "name": "Unfallverhütungsvorschriften", "markdown": "assets/content/bwl/arbeitschutzes/vorschriften.md" }, {
+                "name": "Arbeitsplatzergonomie", "markdown": "assets/content/bwl/arbeitschutzes/ergonomie.md" }, {
+                "name": "Bildschirmarbeitsplatzverordnung", "markdown": "assets/content/bwl/arbeitschutzes/arbeitsplatzverordnung.md" }, {
+                "name": "Aufsichtsbehörde für Arbeitsschutz", "markdown": "assets/content/bwl/arbeitschutzes/arbeitsschutzaufsicht.md" }, {
+                "name": "Jugendarbeitsschutzgesetz", "markdown": "assets/content/bwl/arbeitschutzes/jugendarbeitsschutzgesetz.md" } ] }, {
+            "name": "Gefährdungsbeurteilung",
             "unterpunkte": [ {
-                "name": "Mechanisch und elektrisch", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+                "name": "Mechanisch, elektrisch, usw.", "markdown": "assets/content/bwl/gefahrenbeurteilung/mechanisch.md" }, {
+                "name": "Ergonomisch, akustisch, usw.", "markdown": "assets/content/bwl/gefahrenbeurteilung/ergonomisch.md" }, {
+                "name": "Gefahren beachten, Gefahren melden", "markdown": "assets/content/bwl/gefahrenbeurteilung/beachtenmelden.md" }, {
+                "name": "Beachten von Sicherheitshinweisen", "markdown": "assets/content/bwl/gefahrenbeurteilung/hinweise.md" }, {
+                "name": "Fürsorgepflicht des Arbeitgebers", "markdown": "assets/content/bwl/gefahrenbeurteilung/arbeitgeber.md" }, {
+                "name": "Ersthelfer", "markdown": "assets/content/bwl/gefahrenbeurteilung/ersthelfer.md" }, {
+                "name": "Ergonomischer Arbeitsplatz", "markdown": "assets/content/bwl/gefahrenbeurteilung/ergoarbeitsplatz.md" } ] }, {
+            "name": "Betriebliche Gesundheitsvorsorge",
+            "unterpunkte": [ {
+                "name": "Augenuntersuchung", "markdown": "assets/content/bwl/vorsorge/augen.md" }, {
+                "name": "Gefährdungsbeurteilung", "markdown": "assets/content/bwl/vorsorge/beurteilung.md" } ] }, {
+            "name": "Rolle und Verantwortlichkeiten von Sicherheitsbeauftragten",
+            "unterpunkte": [ {
+                "name": "Aufgaben und Tätigkeiten", "markdown": "assets/content/bwl/beauftragten/aufgaben.md" } ] }, {
+            "name": "Arbeitsplatzbezogene Vorschriften",
+            "unterpunkte": [ {
+                "name": "Umgang mit Gefahren", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/gefahren.md" }, {
+                "name": "Verhaltensregeln im Betrieb", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/regeln.md" }, {
+                "name": "Fluchtwege", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/fluchtwege.md" }, {
+                "name": "Notausgänge", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/notausgaenge.md" }, {
+                "name": "Gebäude/Arbeitsplatz", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/arbeitsplatz.md" }, {
+                "name": "Schutzarten von elektrischen Geräte", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/schutzarten.md" }, {
+                "name": "Schutzklassen", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/schutzklassen.md" }, {
+                "name": "Prüfzeichen", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/zeichen.md" }, {
+                "name": "Symbole und Schriften des Arbeitsschutzes", "markdown": "assets/content/bwl/arbeitsplatzvorschriften/symbole.md" } ] }, {
+            "name": "Maßnahmen im Falle eines Arbeitsunfalls",
+            "unterpunkte": [ {
+                "name": "Erste-Hilfe Maßnahmen", "markdown": "assets/content/bwl/unfall/erstehilfe.md" }, {
+                "name": "Ersthelfer und Notfallnummern", "markdown": "assets/content/bwl/unfall/ersthelfer.md" }, {
+                "name": "Meldeketten", "markdown": "assets/content/bwl/unfall/meldeketten.md" }, {
+                "name": "Sammelplätze und Fluchtwege", "markdown": "assets/content/bwl/unfall/fluchtwege.md" }, {
+                "name": "Dokumentation und Evakuierung", "markdown": "assets/content/bwl/unfall/evakuierung.md" }, {
+                "name": "Unfallmeldepflicht", "markdown": "assets/content/bwl/unfall/meldepflicht.md" } ] }, {
+            "name": "Brandschutzmaßnahmen und Verhalten im Notfall",
+            "unterpunkte": [ {
+                "name": "Brandursachen und Hitzeentwicklung", "markdown": "assets/content/bwl/brandschutz/ursachen.md" }, {
+                "name": "Brandschutzordnung", "markdown": "assets/content/bwl/brandschutz/ordnung.md" }, {
+                "name": "Verhalten bei Feuer", "markdown": "assets/content/bwl/brandschutz/verhalten.md" }, {
+                "name": "Brandschutzmittel", "markdown": "assets/content/bwl/brandschutz/mittel.md" }, {
+                "name": "Sammelplätze", "markdown": "assets/content/bwl/brandschutz/sammeln.md" }, {
+                "name": "Rettungswege", "markdown": "assets/content/bwl/brandschutz/rettungswege.md" }, {
+                "name": "Sicherheitszeichen", "markdown": "assets/content/bwl/brandschutz/zeichen.md" }, {
+                "name": "Brandschutzklassen", "markdown": "assets/content/bwl/brandschutz/klassen.md" }, {
+                "name": "Brandmeldung", "markdown": "assets/content/bwl/brandschutz/meldung.md" } ] }, {
+            "name": "Basiswissen und Umsetzung von IT-Sicherheitsmaßnahmen",
+            "unterpunkte": [ {
+                "name": "Ziele kennen und unterscheiden", "markdown": "assets/content/bwl/itsicherheit/ziele.md" }, {
+                "name": "DSGVO kennen und Ziele bestimmen", "markdown": "assets/content/bwl/itsicherheit/dsgvo.md" }, {
+                "name": "Verfügbarkeit, Integrität und Vertraulichkeit von Daten", "markdown": "assets/content/bwl/itsicherheit/datenschutz.md" }, {
+                "name": "BSI kennen und Ziele bestimmen", "markdown": "assets/content/bwl/itsicherheit/bsi.md" }, {
+                "name": "BSI Standards und Empfehlungen kennen", "markdown": "assets/content/bwl/itsicherheit/bsistandards.md" }, {
+                "name": "IT-Sicherheitskonzept", "markdown": "assets/content/bwl/itsicherheit/konzept.md" }, {
+                "name": "TOM zur Sicherung des IT-Schutzes kennen", "markdown": "assets/content/bwl/itsicherheit/tomsicherheit.md" } ] } ] }, {
         "name": "Beitrag zum betrieblichen Umweltschutz",
         "themen": [ {
-            "name": "Umweltbelastungen wahrnehmen und vermeiden helfen",
+            "name": "Beitrag zur Vermeidung von Umweltbelastungen",
             "unterpunkte": [ {
-                "name": "Rationelle Energie- und Ressourcenverwendung", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
-                "name": "Abfalltrennung", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
-            "name": "Umgang mit Abfällen",
+                "name": "Risiken der IT-Technologien", "markdown": "assets/content/bwl/umweltbelastungen/risiken.md" }, {
+                "name": "Energie- und Ressourcennutzung", "markdown": "assets/content/bwl/umweltbelastungen/nutzung.md" }, {
+                "name": "Recycling", "markdown": "assets/content/bwl/umweltbelastungen/recycling.md" }, {
+                "name": "Abfalltrennung und Abfallvermeidung", "markdown": "assets/content/bwl/umweltbelastungen/trennung.md" } ] }, {
+            "name": "Sachgerechter Umgang mit Abfällen",
             "unterpunkte": [ {
-                "name": "Branchenspezifische Abfälle", "markdown": "assets/content/bwl/kostenrechnung/deckungsbeitrag.md" } ] } ] }, {
+                "name": "Branchenspezifische Abfälle", "markdown": "assets/content/bwl/branchenabfall/abfall.md" } ] }, {
+            "name": "Rechtliche Grundlagen des Umweltschutzes",
+            "unterpunkte": [ {
+                "name": "Dualen System", "markdown": "assets/content/bwl/umweltschutzgrundlagen/system.md" }, {
+                "name": "Immissionsschutzgesetz", "markdown": "assets/content/bwl/umweltschutzgrundlagen/immissionsschutz.md" } ] }, {
+            "name": "Externe Umweltauswirkungen",
+            "unterpunkte": [ {
+                "name": "Im Bezug auf Umwelt, Tiere, usw.", "markdown": "assets/content/bwl/externeauswirkungen/folgen.md" } ] }, {
+            "name": "Nachhaltige Nutzung von Ressourcen",
+            "unterpunkte": [ {
+                "name": "Wirtschaftliche Nachhaltigkeit", "markdown": "assets/content/bwl/ressourcen/wirtschaftlich.md" }, {
+                "name": "Effektiver Umgang mit Ressourcen", "markdown": "assets/content/bwl/ressourcen/umgang.md" }, {
+                "name": "Kombination aus Verbrauch und Schutz", "markdown": "assets/content/bwl/ressourcen/kombination.md" } ] }, {
+            "name": "Strategien zur Reduzierung von Abfall",
+            "unterpunkte": [ {
+                "name": "Möglichkeiten der Abfallvermeidung", "markdown": "assets/content/bwl/strategien/vermeidung.md" } ] }, {
+            "name": "Rechtsfolgen bei Umweltverstößen",
+            "unterpunkte": [ {
+                "name": "Konsequenzen und Folgen", "markdown": "assets/content/bwl/folgen/konsequenzen.md" } ] } ] }, {
         "name": "Digitale Zusammenarbeit und Vernetzung",
         "themen": [ {
-            "name": "Wertschätzende Zusammenarbeit",
+            "name": "Respektvolle Kooperation",
             "unterpunkte": [ {
-                "name": "Interdisziplinarität", "markdown": "assets/content/ap1/programmierung/kapselung.md" }, {
-                "name": "Unternehmenswerte beachten", "markdown": "assets/content/ap1/programmierung/vererbung.md" } ] }, {
-            "name": "Ethische Aspekte und Compliance-Regelungen",
+                "name": "Interdisziplinarität", "markdown": "assets/content/bwl/kooperation/interdisziplin.md" }, {
+                "name": "Im Team respektvoll arbeiten", "markdown": "assets/content/bwl/kooperation/teamarbeit.md" }, {
+                "name": "Gemeinsame Verantwortung bei Teamarbeit", "markdown": "assets/content/bwl/kooperation/verantwortung.md" }, {
+                "name": "Unternehmenswerte beachten", "markdown": "assets/content/bwl/kooperation/werte.md" } ] }, {
+            "name": "Schutzziele bei IT-Kommunikation",
             "unterpunkte": [ {
-                "name": "Diversity", "markdown": "assets/content/bwl/marketing/place.md" }, {
-                "name": "Gender-Neutralität", "markdown": "assets/content/bwl/marketing/promotion.md" } ] } ] } ] } ]}
+                "name": "Sicherheitsbewusstsein erlernen", "markdown": "assets/content/bwl/itkommunikation/sicherheit.md" }, {
+                "name": "Reflexion von Erlebten im virtuellen Raum", "markdown": "assets/content/bwl/itkommunikation/reflexion.md" }, {
+                "name": "Nutzung von Social Media", "markdown": "assets/content/bwl/itkommunikation/socialmedia.md" }, {
+                "name": "Zuständigkeitsabgrenzung bei Kommunikation", "markdown": "assets/content/bwl/itkommunikation/abgrenzung.md" }, {
+                "name": "Korrekter und sicherer Umgang mit Emails", "markdown": "assets/content/bwl/itkommunikation/emails.md" }, {
+                "name": "Empfängersicht bei Nachrichten beachten", "markdown": "assets/content/bwl/itkommunikation/nachrichten.md" }, {
+                "name": "Sensibler Umgang mit Daten, wie z.B. Adressen", "markdown": "assets/content/bwl/itkommunikation/umgang.md" }, {
+                "name": "Folgen bei Äußerungen in Social Media", "markdown": "assets/content/bwl/itkommunikation/folgensocialmedia.md" }, {
+                "name": "Gefahren von Social Engineering kennen", "markdown": "assets/content/bwl/itkommunikation/socialengineering.md" } ] }, {
+            "name": "Ethische Grundsätze und Einhaltung von Vorschriften",
+            "unterpunkte": [ {
+                "name": "Diversity gewährleisten", "markdown": "assets/content/bwl/ethik/diversity.md" }, {
+                "name": "Gender-Neutralität beachten", "markdown": "assets/content/bwl/ethik/gender.md" }, {
+                "name": "Ethische Aspekte gewährleisten", "markdown": "assets/content/bwl/ethik/ethik.md" }, {
+                "name": "Nachhaltigkeit reflektieren", "markdown": "assets/content/bwl/ethik/nachhaltigkeit.md" }, {
+                "name": "Betriebliche Compliance-Regeln", "markdown": "assets/content/bwl/ethik/compliance.md" } ] } ] } ] } ]}
