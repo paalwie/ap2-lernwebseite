@@ -24,6 +24,8 @@
   margin-bottom: 10px;
   flex-wrap: wrap;
   justify-content: center;
+  max-width: 100%;
+  padding: 5px;
 }
 
 .unterthemen {
@@ -44,11 +46,13 @@
   background-color: #ace0e7;
   color: rgb(0, 0, 0);
   border: none;
-  padding: 10px 15px;
+  padding: 0.5rem 1rem;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 0.9em;
+  font-size: clamp(0.75rem, 1.5vw, 0.95rem);
   transition: background-color 0.3s ease;
+  min-width: 140px;
+  text-align: center;
 }
 
 .button.secondary {
