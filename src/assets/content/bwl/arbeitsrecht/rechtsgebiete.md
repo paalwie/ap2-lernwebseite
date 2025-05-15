@@ -1,3 +1,3 @@
-# kapselung
+# rechtsgebiete
 
 Inhalt folgt...

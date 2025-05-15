@@ -1,3 +1,3 @@
-# kapselung
+# potential
 
 Inhalt folgt...

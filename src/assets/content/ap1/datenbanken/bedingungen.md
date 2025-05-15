@@ -1,3 +1,3 @@
-# kapselung
+# bedingungen
 
 Inhalt folgt...

@@ -1,0 +1,3 @@
+# zustandsdiagramm
+
+Inhalt folgt...

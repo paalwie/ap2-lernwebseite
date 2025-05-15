@@ -1,0 +1,3 @@
+# ressourcenengpaesse
+
+Inhalt folgt...

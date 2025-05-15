@@ -1,3 +1,3 @@
-# kapselung
+# konferenz
 
 Inhalt folgt...

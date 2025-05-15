@@ -1,3 +1,3 @@
-# kapselung
+# singleton
 
 Inhalt folgt...

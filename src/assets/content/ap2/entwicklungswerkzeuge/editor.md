@@ -1,3 +1,3 @@
-# kapselung
+# editor
 
 Inhalt folgt...

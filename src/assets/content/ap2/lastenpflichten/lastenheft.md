@@ -1,3 +1,3 @@
-# kapselung
+# lastenheft
 
 Inhalt folgt...

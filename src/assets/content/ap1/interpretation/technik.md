@@ -1,3 +1,3 @@
-# kapselung
+# technik
 
 Inhalt folgt...

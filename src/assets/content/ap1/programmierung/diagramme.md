@@ -1,3 +1,3 @@
-# kapselung
+# diagramme
 
 Inhalt folgt...

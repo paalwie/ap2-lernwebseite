@@ -1,3 +1,3 @@
-# kapselung
+# wettbewerb
 
 Inhalt folgt...

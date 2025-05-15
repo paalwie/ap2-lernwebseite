@@ -1,3 +1,3 @@
-# kapselung
+# weiterbildung
 
 Inhalt folgt...

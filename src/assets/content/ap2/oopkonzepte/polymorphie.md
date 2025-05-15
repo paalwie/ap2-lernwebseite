@@ -1,3 +1,3 @@
-# kapselung
+# polymorphie
 
 Inhalt folgt...

@@ -1,3 +1,3 @@
-# kapselung
+# gruppieren
 
 Inhalt folgt...

@@ -1,3 +1,3 @@
-# kapselung
+# schlichtung
 
 Inhalt folgt...

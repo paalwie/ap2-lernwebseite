@@ -1,0 +1,3 @@
+# klassendiagramm
+
+Inhalt folgt...

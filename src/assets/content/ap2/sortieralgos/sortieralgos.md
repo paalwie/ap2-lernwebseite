@@ -1,3 +1,3 @@
-# kapselung
+# sortieralgos
 
 Inhalt folgt...

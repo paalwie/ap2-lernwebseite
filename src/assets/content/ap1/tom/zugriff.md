@@ -1,3 +1,3 @@
-# kapselung
+# zugriff
 
 Inhalt folgt...

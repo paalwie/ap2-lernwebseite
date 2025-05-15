@@ -1,3 +1,3 @@
-# kapselung
+# redundanzen
 
 Inhalt folgt...

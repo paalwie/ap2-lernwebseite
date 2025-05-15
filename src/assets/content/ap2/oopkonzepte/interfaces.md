@@ -1,3 +1,3 @@
-# kapselung
+# interfaces
 
 Inhalt folgt...

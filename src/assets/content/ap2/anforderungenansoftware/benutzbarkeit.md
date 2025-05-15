@@ -1,3 +1,3 @@
-# kapselung
+# benutzbarkeit
 
 Inhalt folgt...

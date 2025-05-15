@@ -1,3 +1,3 @@
-# kapselung
+# agbgesetz
 
 Inhalt folgt...

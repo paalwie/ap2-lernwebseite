@@ -1,3 +1,3 @@
-# kapselung
+# inhalte
 
 Inhalt folgt...
