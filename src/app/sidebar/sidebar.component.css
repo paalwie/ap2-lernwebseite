@@ -44,6 +44,7 @@
   padding: 8px 10px;
   border-radius: 3px;
   transition: background-color 0.3s ease;
+  cursor: pointer;
 }
 
 .sidebar a:hover {

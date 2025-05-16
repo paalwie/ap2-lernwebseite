@@ -69,3 +69,13 @@
   background-color: #00bcd4;
   color: white;
 }
+
+.active-button {
+  background-color: #007BFF;
+  color: white;
+}
+
+.active-button.button.secondary {
+  background-color: #007BFF;
+  color: white;
+}

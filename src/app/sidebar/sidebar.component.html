@@ -6,11 +6,16 @@
         <h3>{{ thema.name }}</h3>
         <ul *ngIf="thema.unterpunkte.length > 0; else keineUnterpunkte">
           <li *ngFor="let punkt of thema.unterpunkte">
-            <a (click)="showContent(punkt.markdown)">{{ punkt.name }}</a>
+            <a (click)="showContent(punkt.markdown, punkt.name)"
+              [ngClass]="{ 'active-topic': punkt.name === currentThema }">
+              {{ punkt.name }}
+            </a>
           </li>
         </ul>
         <ng-template #keineUnterpunkte>
-          <ul><li>Keine Unterpunkte vorhanden.</li></ul>
+          <ul>
+            <li>Keine Unterpunkte vorhanden.</li>
+          </ul>
         </ng-template>
       </div>
     </div>

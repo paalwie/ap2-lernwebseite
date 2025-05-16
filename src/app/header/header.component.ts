@@ -15,17 +15,25 @@ export class HeaderComponent implements OnInit {
   aktivePruefung: any;
   aktiveUnterthemen: any;
 
-  constructor(private http: HttpClient, private state: StateService) {}
+  constructor(private http: HttpClient, private state: StateService) { }
+
+  statePruefung = '';
+  stateUnterthema = '';
 
   ngOnInit() {
     this.http.get('assets/data/content.json').subscribe((res) => {
       this.data = res;
     });
+
+    this.state.pruefung$.subscribe(name => this.statePruefung = name);
+    this.state.unterthema$.subscribe(name => this.stateUnterthema = name);
   }
+
 
   setPruefung(pruefung: any) {
     this.aktivePruefung = pruefung;
     this.aktiveUnterthemen = pruefung.unterthemen;
+    this.state.setPruefung(pruefung.name);
   }
 
   setUnterthema(unterthema: any) {

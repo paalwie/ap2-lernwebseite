@@ -13,36 +13,46 @@ import { StateService } from '../shared/state.service';
 })
 export class SidebarComponent implements OnInit {
   themen: any[] = [];
+  currentThema = '';
 
   constructor(
     private http: HttpClient,
     private router: Router,
     private state: StateService
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.state.unterthema$.subscribe((name) => {
-      this.http.get<any>('assets/data/content.json').subscribe((data) => {
-        // Durchsuche ALLE Prüfungen und deren Unterthemen
-        for (const pruefung of data.pruefungen) {
-          const unterthema = pruefung.unterthemen.find((u: any) => u.name === name);
-          if (unterthema) {
-            this.themen = unterthema.themen;
-            return;
-          }
-        }
+      this.loadThemen(name);
+    });
 
-        // Falls nicht gefunden
-        this.themen = [];
-      });
+    this.state.thema$.subscribe(name => {
+      this.currentThema = name;
     });
   }
 
-  showContent(mdPath: string) {
+  showContent(mdPath: string, name: string) {
+    this.state.setThema(name);
     this.router.navigate(['/content'], { queryParams: { file: mdPath } });
   }
 
-   navigateToHome() {
+  navigateToHome() {
     this.router.navigate(['/']);
   }
+
+  loadThemen(name: string) {
+    this.http.get<any>('assets/data/content.json').subscribe((data) => {
+      for (const pruefung of data.pruefungen) {
+        const unterthema = pruefung.unterthemen.find((u: any) => u.name === name);
+        if (unterthema) {
+          this.themen = unterthema.themen;
+          return;
+        }
+      }
+
+      // Falls nicht gefunden
+      this.themen = [];
+    });
+  }
+
 }

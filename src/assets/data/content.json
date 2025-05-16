@@ -6,7 +6,7 @@
             "name": "Aktive Kundenansprache und Bedürfniserfassung (inkl. Gesprächsführung und digitale Medien)",
             "unterpunkte": [ {
                 "name": "Telefonkonferenzen, Chat", "markdown": "assets/content/ap1/kunden/konferenz.md" }, {
-                "name": "virtuelle Teambesprechungen", "markdown": "assets/content/ap1/kunden/besprechung.md" }, {
+                "name": "Virtuelle Teambesprechungen", "markdown": "assets/content/ap1/kunden/besprechung.md" }, {
                 "name": "Verkaufsgespräche", "markdown": "assets/content/ap1/kunden/verkaufen.md" }, {
                 "name": "Analyse der Kundenbedürfnisse", "markdown": "assets/content/ap1/kunden/kundenanalyse.md" } ] }, {
             "name": "Gestaltung rechtkonformer Kundenbeziehungen",
@@ -31,7 +31,7 @@
             "name": "Fehleranalyse und -behebung",
             "unterpunkte": [ {
                 "name": "Breakpoints und Debugging", "markdown": "assets/content/ap1/fehleranalyse/debugging.md" }, {
-                "name": "dynamische und statische Software-Tests incl. Black/White-Box", "markdown": "assets/content/ap1/fehleranalyse/softwaretests.md" }, {
+                "name": "Dynamische und statische Software-Tests incl. Black/White-Box", "markdown": "assets/content/ap1/fehleranalyse/softwaretests.md" }, {
                 "name": "Testdaten", "markdown": "assets/content/ap1/fehleranalyse/testdaten.md" }, {
                 "name": "System-, Integrations- und Komponententest", "markdown": "assets/content/ap1/fehleranalyse/tests.md" }, {
                 "name": "Versionsmanagement von Code", "markdown": "assets/content/ap1/fehleranalyse/versionierung.md" } ] }, {
