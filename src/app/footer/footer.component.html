@@ -1,2 +1,18 @@
 <div class="footer">
-  <p>&copy; Diese Webseite wurde erstellt von Patrick Wiedenmann</p> </div>
+  <p>&copy; Diese Webseite wurde erstellt von Patrick Wiedenmann &nbsp;&nbsp;&nbsp;&nbsp;     </p><button class="button button5" (click)="showForm = true">Fehler
+    melden</button>
+</div>
+<!-- Fehler-Formular als Modal -->
+<div class="modal" *ngIf="showForm">
+  <div class="modal-content">
+    <h2>Fehler melden</h2>
+    <form (ngSubmit)="submitForm()">
+      <label>Betreff:</label>
+      <input [(ngModel)]="form.subject" name="subject" required />
+      <label>Nachricht:</label>
+      <textarea [(ngModel)]="form.message" name="message" required></textarea>
+      <button type="submit">Senden</button>
+      <button type="button" (click)="showForm = false">Abbrechen</button>
+    </form>
+  </div>
+</div>
