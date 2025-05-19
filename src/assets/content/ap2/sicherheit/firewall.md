@@ -1,3 +1,0 @@
-# firewall
-
-Inhalt folgt...
