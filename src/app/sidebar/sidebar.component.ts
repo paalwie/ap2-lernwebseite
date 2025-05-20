@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
@@ -14,6 +14,8 @@ import { StateService } from '../shared/state.service';
 export class SidebarComponent implements OnInit {
   themen: any[] = [];
   currentThema = '';
+
+  @ViewChild('sidebarScroll') sidebarScroll!: ElementRef;
 
   constructor(
     private http: HttpClient,
@@ -46,13 +48,19 @@ export class SidebarComponent implements OnInit {
         const unterthema = pruefung.unterthemen.find((u: any) => u.name === name);
         if (unterthema) {
           this.themen = unterthema.themen;
+
+          setTimeout(() => this.scrollSidebarToTop(), 0);
           return;
         }
       }
 
-      // Falls nicht gefunden
       this.themen = [];
     });
   }
 
+  scrollSidebarToTop() {
+    if (this.sidebarScroll && this.sidebarScroll.nativeElement) {
+      this.sidebarScroll.nativeElement.scrollTop = 0;
+    }
+  }
 }

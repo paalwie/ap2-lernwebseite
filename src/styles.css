@@ -21,3 +21,14 @@ html, body {
   font-weight: bold;
   border-left: 4px solid #007BFF;
 }
+
+.scroll-container {
+  height: 100%;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.sidebar-scroll {
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+}

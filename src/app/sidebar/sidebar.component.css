@@ -1,18 +1,38 @@
 .sidebar {
-  background-color: #f8f8f8; /* Hellerer Hintergrund für die Sidebar */
+  background-color: #f8f8f8;
   height: 100%;
   padding: 20px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  align-items: stretch; /* Elemente nehmen die volle Breite ein */
+  align-items: stretch;
 }
 
 .sidebar h2 {
-  color: #333;
+  color: #360684;
   margin-bottom: 20px;
   text-align: left;
-  font-size: 1.5em;
+  font-size: 1.8em;
+  font-weight: 700;
+  padding: 15px 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  display: block;
+
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+
+.sidebar h2:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  transform: translateY(-7px);
+  color: #4a1c7d;
+  background-color: #ffffff;
 }
 
 .thema-gruppe {
@@ -49,5 +69,5 @@
 
 .sidebar a:hover {
   background-color: #eee;
-  color: #00bcd4; /* Akzentfarbe beim Hover */
+  color: #00bcd4;
 }
