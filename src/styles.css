@@ -32,3 +32,61 @@ html, body {
   max-height: calc(100vh - 100px);
   overflow-y: auto;
 }
+
+@media screen and (max-width: 768px) {
+  .content-area {
+    flex-direction: column;
+    height: auto;
+  }
+
+  app-sidebar {
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    order: 2;
+    border-right: none;
+    border-top: 1px solid #ddd;
+  }
+
+  .main-content {
+    order: 1;
+    padding: 10px;
+  }
+
+  app-header, app-footer {
+    height: auto;
+  }
+
+  .header h1 {
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  .pruefungen, .unterthemen {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .button {
+    min-width: unset;
+    width: 100%;
+    font-size: 1rem;
+  }
+
+  .footer {
+    flex-direction: column;
+    font-size: 0.8em;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .modal-content {
+    width: 95%;
+  }
+
+  input[type="text"], textarea {
+    width: 100%;
+    font-size: 1rem;
+  }
+}
+
