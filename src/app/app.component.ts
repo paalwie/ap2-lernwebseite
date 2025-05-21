@@ -13,4 +13,9 @@ import { SidebarComponent } from './sidebar/sidebar.component';
 })
 export class AppComponent {
   title = 'ap2-lernwebseite';
+  isSidebarOpen = false; // Zustand der Sidebar
+
+  toggleSidebar() {
+    this.isSidebarOpen = !this.isSidebarOpen;
+  }
 }

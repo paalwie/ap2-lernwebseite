@@ -71,3 +71,27 @@
   background-color: #eee;
   color: #00bcd4;
 }
+
+.close-sidebar {
+  display: none; /* Standardmäßig ausblenden */
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  color: #333;
+}
+
+/* --- Mobile Anpassungen --- */
+@media (max-width: 768px) {
+  .close-sidebar {
+    display: block; /* Auf Mobilgeräten anzeigen */
+  }
+
+  .sidebar-scroll {
+    max-height: 100vh; /* Volle Höhe auf Mobilgeräten */
+    overflow-y: auto;
+  }
+}

@@ -33,6 +33,13 @@ html, body {
   overflow-y: auto;
 }
 
+@media (max-width: 768px) {
+  html, body {
+    font-size: 16px; /* Schriftgröße auf Mobilgeräten etwas erhöhen */
+  }
+}
+
+/**
 @media screen and (max-width: 768px) {
   .content-area {
     flex-direction: column;
@@ -90,3 +97,4 @@ html, body {
   }
 }
 
+**/

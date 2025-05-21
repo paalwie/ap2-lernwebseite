@@ -37,3 +37,43 @@ app-footer {
   /* Hintergrundfarbe und Textfarbe werden im footer.component.css definiert (wird auch Forest Green) */
   border-top: 1px solid #ddd;
 }
+
+/* --- Mobile Anpassungen --- */
+@media (max-width: 768px) {
+  app-header {
+    height: auto; /* Header-Höhe flexibel gestalten */
+  }
+
+  .content-area {
+    flex-direction: column; /* Content-Area vertikal anordnen */
+  }
+
+  app-sidebar {
+    width: 100%; /* Sidebar volle Breite */
+    min-width: unset; /* Minimale Breite aufheben */
+    max-width: unset; /* Maximale Breite aufheben */
+    border-right: none;
+    height: auto; /* Höhe flexibel, damit der Inhalt passt */
+    position: absolute; /* Positionieren, um den Fluss des Hauptinhalts nicht zu stören */
+    top: 0; /* Oben positionieren */
+    left: -100%; /* Standardmäßig außerhalb des Bildschirms */
+    transition: left 0.3s ease-in-out; /* Sanfte Animation beim Ein-/Ausblenden */
+    z-index: 999; /* Über dem anderen Inhalt anzeigen */
+    background-color: #f8f8f8; /* Hintergrundfarbe für die ausklappbare Sidebar */
+    box-shadow: 2px 0 5px rgba(0,0,0,0.2); /* Schatten hinzufügen */
+    padding-top: 60px; /* Platz für den Header lassen, falls dieser sticky wird */
+  }
+
+  app-sidebar.open {
+    left: 0; /* Sidebar einblenden */
+  }
+
+  .main-content {
+    padding: 10px; /* Weniger Padding auf Mobilgeräten */
+  }
+
+  app-footer {
+    height: auto; /* Footer-Höhe flexibel */
+    padding: 10px; /* Etwas Padding für den Footer */
+  }
+}

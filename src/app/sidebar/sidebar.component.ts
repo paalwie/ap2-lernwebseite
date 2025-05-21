@@ -1,4 +1,4 @@
-import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
+import { Component, OnInit, ViewChild, ElementRef, Output, EventEmitter } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
@@ -12,6 +12,7 @@ import { StateService } from '../shared/state.service';
   styleUrl: './sidebar.component.css',
 })
 export class SidebarComponent implements OnInit {
+  @Output() closeSidebar = new EventEmitter<void>();
   themen: any[] = [];
   currentThema = '';
 
@@ -62,5 +63,9 @@ export class SidebarComponent implements OnInit {
     if (this.sidebarScroll && this.sidebarScroll.nativeElement) {
       this.sidebarScroll.nativeElement.scrollTop = 0;
     }
+  }
+
+  onCloseSidebar() {
+    this.closeSidebar.emit();
   }
 }

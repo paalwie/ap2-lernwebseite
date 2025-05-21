@@ -1,18 +1,22 @@
 .header {
-  background-color: #002F6C; /* IHK-Blau */
+  background-color: #002F6C;
+  /* IHK-Blau */
   height: 100%;
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; /* Inhalt am oberen Rand ausrichten */
+  justify-content: flex-start;
+  /* Inhalt am oberen Rand ausrichten */
   align-items: center;
   padding: 20px;
   color: white;
 }
 
 .header h1 {
-  margin-top: 0; /* Oberen Abstand entfernen oder reduzieren */
-  margin-bottom: 15px; /* Etwas weniger Abstand nach unten */
+  margin-top: 0;
+  /* Oberen Abstand entfernen oder reduzieren */
+  margin-bottom: 15px;
+  /* Etwas weniger Abstand nach unten */
   font-size: 2em;
   font-weight: bold;
   font-family: 'Roboto', sans-serif
@@ -78,4 +82,69 @@
 .active-button.button.secondary {
   background-color: #007BFF;
   color: white;
+}
+
+/* --- Hamburger-Menü für Mobile --- */
+.hamburger-menu {
+  display: none;
+  /* Standardmäßig auf Desktop ausblenden */
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  position: absolute;
+  /* Positionieren, um links oben zu sein */
+  left: 10px;
+  top: 10px;
+  z-index: 1000;
+  /* Über dem Header anzeigen */
+}
+
+.hamburger-menu .bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 5px 0;
+  transition: 0.3s;
+}
+
+/* --- Mobile Anpassungen --- */
+@media (max-width: 768px) {
+
+  .hamburger-menu {
+    display: block;
+    /* Auf Mobilgeräten anzeigen */
+  }
+
+  .header {
+    padding: 10px;
+    height: auto;
+    /* Höhe flexibel */
+    justify-content: center;
+    /* Inhalt zentrieren */
+  }
+
+  .header h1 {
+    font-size: 1.5em;
+    /* Überschrift kleiner */
+    margin-bottom: 10px;
+  }
+
+  .pruefungen,
+  .unterthemen {
+    gap: 5px;
+    /* Weniger Abstand zwischen Buttons */
+    margin-bottom: 5px;
+  }
+
+  .button {
+    padding: 0.4rem 0.8rem;
+    /* Buttons kleiner machen */
+    font-size: 0.85rem;
+    min-width: unset;
+    /* Minimale Breite aufheben */
+    flex-grow: 1;
+    /* Buttons füllen verfügbaren Platz aus */
+  }
 }

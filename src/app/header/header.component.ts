@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { StateService } from '../shared/state.service';
 
@@ -11,6 +11,9 @@ import { StateService } from '../shared/state.service';
   styleUrl: './header.component.css'
 })
 export class HeaderComponent implements OnInit {
+
+  @Output() toggleSidebar = new EventEmitter<void>(); // Event-Emitter für Sidebar
+
   data: any;
   aktivePruefung: any;
   aktiveUnterthemen: any;
@@ -38,5 +41,9 @@ export class HeaderComponent implements OnInit {
 
   setUnterthema(unterthema: any) {
     this.state.setUnterthema(unterthema.name); // Übergib den Namen an den State
+  }
+
+  onToggleSidebar() {
+    this.toggleSidebar.emit();
   }
 }

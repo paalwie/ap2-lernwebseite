@@ -1,4 +1,5 @@
 <div #sidebarScroll class="sidebar-scroll" class="sidebar">
+  <button class="close-sidebar" (click)="onCloseSidebar()">X</button>
   <h2 style="cursor: pointer;" (click)="navigateToHome()">Suche / Start</h2>
   <nav>
     <div *ngIf="themen.length > 0; else keineThemen">
