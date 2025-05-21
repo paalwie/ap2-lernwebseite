@@ -1,6 +1,7 @@
 <div class="app-container">
   <app-header (toggleSidebar)="toggleSidebar()"></app-header>
   <div class="content-area">
+    <div class="sidebar-overlay" [class.open]="isSidebarOpen" (click)="toggleSidebar()"></div>
     <app-sidebar [class.open]="isSidebarOpen" (closeSidebar)="isSidebarOpen = false"></app-sidebar>
     <main class="main-content">
       <router-outlet></router-outlet>

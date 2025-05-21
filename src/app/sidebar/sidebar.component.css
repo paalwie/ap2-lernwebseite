@@ -6,6 +6,7 @@
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  position: relative;
 }
 
 .sidebar h2 {
@@ -88,6 +89,15 @@
 @media (max-width: 768px) {
   .close-sidebar {
     display: block; /* Auf Mobilgeräten anzeigen */
+    position: absolute; /* Positionierung innerhalb der Sidebar relativ zu .sidebar */
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.8em;
+    cursor: pointer;
+    color: #333; /* Dunkle Farbe, damit er auf hellem Hintergrund sichtbar ist */
+    z-index: 1000; /* Sicherstellen, dass er über dem Inhalt der Sidebar liegt */
   }
 
   .sidebar-scroll {

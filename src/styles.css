@@ -9,6 +9,7 @@ html, body {
   background-color: #f4f4f4; /* Hintergrundfarbe für die Seite */
   max-width: 1920px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 *, ::before, ::after {

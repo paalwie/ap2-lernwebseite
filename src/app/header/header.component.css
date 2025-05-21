@@ -114,15 +114,25 @@
 
   .hamburger-menu {
     display: block;
-    /* Auf Mobilgeräten anzeigen */
+    color: white; /* Stellen Sie sicher, dass die Balken weiß sind */
+    position: fixed; /* MUSS fixed sein, um über allem zu schweben */
+    top: 15px; /* Angemessener Abstand vom oberen Rand */
+    left: 15px; /* Angemessener Abstand vom linken Rand */
+    z-index: 1001; /* HÖCHSTER Z-INDEX, DAMIT ES IMMER SICHTBAR IST */
+  }
+
+  .hamburger-menu .bar {
+    background-color: white; /* Macht die Hamburger-Balken weiß */
   }
 
   .header {
     padding: 10px;
     height: auto;
-    /* Höhe flexibel */
     justify-content: center;
-    /* Inhalt zentrieren */
+    background-color: #002F6C; /* Wichtig: Header auf Mobilgeräten blau halten */
+    position: sticky; /* Hält den Header oben */
+    top: 0;
+    z-index: 997; /* Unter Sidebar und Overlay, aber über main-content */
   }
 
   .header h1 {
