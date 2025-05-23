@@ -1,4 +1,4 @@
-# Verschiedene Tools zur Überprüfung von IT-Sicherheitsmaßnahmen erläutern: Schwachstellenanalyse
+# Schwachstellenanalyse
 
 ## Einführung
 
@@ -81,8 +81,9 @@ Es gibt verschiedene Kategorien von Tools, die für die Schwachstellenanalyse ei
 ## Weiterführende Links & Quellen
 
   - [OWASP Vulnerability Scanning Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
-  - [SANS Institute - Vulnerability Management](https://www.sans.org/cyber-security-resources/by-topic/vulnerability-management)
+  - [Wikipedia: IT-Sicherheitsaudit](https://de.wikipedia.org/wiki/IT-Sicherheitsaudit)
   - [NIST SP 800-115, Guide to Security Testing](https://csrc.nist.gov/publications/detail/sp/800-115/final)
+  - [Mit Schwachstellenanalyse die IT-Sicherheit nachhaltig erhöhen](https://www.security-insider.de/mit-schwachstellenanalyse-die-it-sicherheit-nachhaltig-erhoehen-a-9260a4fb3ab9a6486cfca4fef2d2a2c9/)
 
 -----
 

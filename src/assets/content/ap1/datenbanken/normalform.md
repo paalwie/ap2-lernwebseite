@@ -126,9 +126,9 @@ Ein Attribut oder eine Kombination von Attributen, das jede Zeile in einer Tabel
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Datenbanknormalisierung](https://de.wikipedia.org/wiki/Datenbanknormalisierung)
-  - [Einführung in die Normalformen (mit klaren Beispielen)](https://www.databasestar.com/normal-forms/) (Englischsprachige Ressource).
   - [Ausführliche Erklärung der 1NF, 2NF und 3NF](https://www.studytonight.com/dbms/database-normalization.php) (Englischsprachige Ressource).
   - [Visuelle Erklärungen zur Datenbanknormalisierung](https://www.youtube.com/watch?v=UrYLYV7WSHM) (Englisches Video, kann aber hilfreich sein).
+  - [Normalisierung von Datenbanken](https://www.tinohempel.de/info/info/datenbank/normalisierung.htm)
 
 -----
 

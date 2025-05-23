@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Technisch Organisatorische Maßnahmen (TOM)
+# Technisch Organisatorische Maßnahmen (TOM)
 
 ## Einführung
 
@@ -103,7 +103,7 @@ Die Beratung sollte folgende Aspekte umfassen:
 ## Weiterführende Links & Quellen
 
   - [Art. 32 DSGVO - Sicherheit der Verarbeitung](https://dsgvo-gesetz.de/art-32-dsgvo/)
-  - [BSI - Technische und organisatorische Maßnahmen](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Technische-Organisatorische-Massnahmen/tom_node.html)
+  - [Wikipedia: Technische und organisatorische Maßnahmen](https://de.wikipedia.org/wiki/Technische_und_organisatorische_Maßnahmen)
   - [Datenschutzkonferenz (DSK) - Orientierungshilfe zur datenschutzfreundlichen Voreinstellung](https://www.datenschutzkonferenz-online.de/media/oh/20190605_oh_privacy_by_default.pdf)
   - [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html)
 

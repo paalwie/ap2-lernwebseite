@@ -1,4 +1,4 @@
-# Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen: Compliance-Reports
+# Compliance-Reports
 
 ## Einführung
 
@@ -89,9 +89,11 @@ Die Prüfung der Wirksamkeit und Effizienz von TOM mithilfe von Compliance-Repor
 
 ## Weiterführende Links & Quellen
 
+  - [Wikipedia: IT-Compliance](https://de.wikipedia.org/wiki/IT-Compliance)
+  - [What is compliance reporting?](https://www.zengrc.com/blog/what-is-compliance-reporting/#:~:text=What%20Is%20a%20Compliance%20Report,violations%20during%20the%20reporting%20period)
+  - [What is Compliance Reporting? - Definition, Types, Examples](https://www.metricstream.com/learn/compliance-reporting.html)
   - [ISO/IEC 27001 - Informationssicherheit](https://www.iso.org/standard/54534.html) (Kapitel 9.1 Überwachung, Messung, Analyse und Bewertung)
   - [COBIT (Control Objectives for Information and related Technology)](https://www.isaca.org/resources/cobit)
-  - [Leitfäden und Empfehlungen von Aufsichtsbehörden (z.B. Datenschutzbehörden, BSI)](Links zu generischen Beispielen)
 
 -----
 

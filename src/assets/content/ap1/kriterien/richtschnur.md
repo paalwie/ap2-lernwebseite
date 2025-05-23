@@ -78,8 +78,9 @@ Eine Richtschnur für Webentwickler könnte folgende Ziele umfassen:
 
 ## Weiterführende Links & Quellen
 
+  - [IT-Sicherheitskriterien - Common Criteria](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Zertifizierung-und-Anerkennung/Zertifizierung-von-Produkten/Zertifizierung-nach-CC/IT-Sicherheitskriterien/it-sicherheitskriterien_node.html#:~:text=Herstellern%20eine%20Richtschnur%20für%20die,zur%20Herstellererklärung)%20zu%20ermöglichen%20und)
+  - [Die 15 Sicherheitsprinzipien der Softwareentwicklung](https://blog.viadee.de/die-15-sicherheitsprinzipien-der-softwareentwicklung-teil-1)
   - [OWASP (Open Web Application Security Project)](https://owasp.org/) (Umfassende Ressourcen zur Webanwendungssicherheit)
-  - [SANS Institute - Secure Coding](https://www.sans.org/cyber-security-resources/by-topic/secure-coding) (Englischsprachige Ressourcen)
   - [NIST SP 800-160 Vol. 1, Systems Security Engineering](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) (Umfassende Richtlinien zur Systementwicklung mit Sicherheitsfokus)
   - [CERT Secure Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/) (Englischsprachige Ressourcen für verschiedene Programmiersprachen)
 

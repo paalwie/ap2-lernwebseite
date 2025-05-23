@@ -78,10 +78,7 @@ In einem anderen Szenario könnte es im Protokoll unter "Feststellungen" eine Li
 
 ## Weiterführende Links & Quellen
 
-  - [Abnahmeprotokoll – Definition und Muster](https://www.formblitz.de/vorlage/abnahmeprotokoll.html) (Muster können je nach Kontext variieren).
-  - [Die Bedeutung des Abnahmeprotokolls im Projektmanagement](https://www.projektmagazin.de/glossar/abnahmeprotokoll)
-  - [Abnahme von Werkleistungen – Was Sie wissen sollten](https://www.betriebs-berater.de/themen/bau-immobilienrecht/beitrag/abnahme-von-werkleistungen-was-sie-wissen-sollten) (Kontext Werkleistungen, aber Prinzipien sind übertragbar).
-  - [Qualitätsmanagement in Projekten – Die Abnahme](https://www.q-management-handbuch.de/qmh/html/p_05_04.html)
+  - [PDF: SoftwareQualitätsmanagement](https://bis.informatik.uni-leipzig.de/de/Lehre/0405/SS/SQM/files?get=2005s_sqm_v_11.pdf)
 
 -----
 

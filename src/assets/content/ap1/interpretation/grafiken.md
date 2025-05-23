@@ -72,7 +72,9 @@ Er achtet darauf, dass alle Grafiken klar beschriftet sind, die Farbwahl dem Cor
 
 ## Weiterführende Links & Quellen
 
-- [Überblick über Diagrammarten und ihre Anwendung](https://...) (Bitte hier relevante Links einfügen)
+- [Überblick über Diagrammarten und ihre Anwendung](https://piktochart.com/de/blog/diagramm-arten/)
+- [Wikipedia: Diagramm](https://de.wikipedia.org/wiki/Diagramm)
+- [Leitfaden zur Erstellung von Grafiken (PDF/Download)](https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000185/GrafikerstellungLeitfaden.pdf)
 
 ---
 

@@ -52,7 +52,7 @@ Beim Entwurf einer Bildschirmausgabemaske für die Suchergebnisse in einer Daten
 
   - [Wikipedia: Softwareergonomie](https://de.wikipedia.org/wiki/Softwareergonomie)
   - [DIN EN ISO 9241 (Normen zur Softwareergonomie)](https://www.iso.org/standard/52075.html) (Englischsprachige Seite der ISO, Informationen zur Norm).
-  - [Wikipedia: Barrierefreiheit (Informationstechnik)](https://de.wikipedia.org/wiki/Barrierefreiheit_(Informationstechnik))
+  - [Wikipedia: Barrierefreies Internet](https://de.wikipedia.org/wiki/Barrierefreies_Internet)
   - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/) (Offizielle Richtlinien des W3C).
   - [BITV 2.0 (Barrierefreie-Informationstechnik-Verordnung 2.0, Deutschland)](https://www.gesetze-im-internet.de/bitv_2_0/)
   - [Einführung in die Barrierefreiheit von Webanwendungen (z.B. von Webentwicklungs-Plattformen)](https://developers.google.com/web/fundamentals/accessibility/basics) (Englischsprachige Ressource von Google).

@@ -77,9 +77,8 @@ Betrachten wir ein einfaches Beispiel für ein Bestellsystem:
 
   - [Wikipedia: Entity-Relationship-Modell](https://de.wikipedia.org/wiki/Entity-Relationship-Modell)
   - [Grundlagen des ER-Modells (mit Diagrammbeispielen)](https://www.lucidchart.com/pages/de/was-ist-ein-entity-relationship-diagramm)
-  - [Erklärung von Kardinalitäten im ER-Modell](https://www.uml-diagrams.org/cardinality.html) (Englischsprachige Ressource).
-  - [Referenzielle Integrität einfach erklärt](https://www.sqlitetutorial.net/sqlite-referential-integrity/) (Englischsprachige Ressource, Konzept ist aber allgemein).
   - [Primär- und Fremdschlüssel in Datenbanken](https://www.w3schools.com/sql/sql_primarykey.asp) (Englischsprachige Ressource).
+  - [Datenbank Grundlagen: Entity-Relationship-Modell](https://www.datenbank-grundlagen.de/entity-relationship-modell.html)
 
 -----
 

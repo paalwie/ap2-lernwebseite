@@ -17,31 +17,39 @@ import { RouterModule } from '@angular/router';
   ],
   template: `
     <ng-container *ngIf="!markdownPath">
-      <input
-        type="text"
-        [(ngModel)]="searchQuery"
-        (input)="onSearchInputChange()"
-        placeholder="Suchbegriff eingeben"
-      />
+  <input
+    type="text"
+    [(ngModel)]="searchQuery"
+    (input)="onSearchInputChange()"
+    placeholder="Suchbegriff eingeben"
+  />
 
-      <ul *ngIf="searchResults.length > 0 && searchQuery.length > 0">
-        <li *ngFor="let result of searchResults">
-          <a [routerLink]="['/content']" [queryParams]="{ file: result.markdown }" (click)="clearSearch()">
-            {{ result.name }}
-          </a>
-        </li>
-      </ul>
-    </ng-container>
+  <ul *ngIf="searchResults.length > 0 && searchQuery.length > 0">
+    <li *ngFor="let result of searchResults">
+      <a [routerLink]="['/content']" [queryParams]="{ file: result.markdown }" (click)="clearSearch()">
+        {{ result.name }}
+      </a>
+    </li>
+  </ul>
+</ng-container>
 
-    <!-- Scroll-Container mit Referenz -->
-    <div #scrollableContent id="scrollableContent" class="scroll-container" *ngIf="markdownPath && (searchResults.length === 0 || searchQuery.length === 0)">
-      <markdown [src]="markdownPath"></markdown>
-    </div>
+<!-- Scroll-Container mit Referenz -->
+<div #scrollableContent id="scrollableContent" class="scroll-container" *ngIf="markdownPath && (searchResults.length === 0 || searchQuery.length === 0)">
+  <markdown [src]="markdownPath"></markdown>
+</div>
 
-    <ng-template [ngIf]="!markdownPath && (searchResults.length === 0 || searchQuery.length === 0)">
-      <h1>Willkommen!</h1>
-      <p>Bitte wählen Sie ein Thema aus der Navigation oder suchen Sie oben.</p>
-    </ng-template>
+<ng-template [ngIf]="!markdownPath && (searchResults.length === 0 || searchQuery.length === 0)">
+  <h1>Willkommen!</h1>
+  <p>Diese Website dient der Vorbereitung auf die Abschlussprüfung Teil 2 (AP2) für Fachinformatikerinnen und Fachinformatiker der Fachrichtung Anwendungsentwicklung.</p>
+  <p>Die schriftliche Prüfung besteht aus drei Teilen:</p>
+  <ul>
+    <li><strong>Planen eines Softwareproduktes</strong> – Anforderungen erfassen, Konzepte entwickeln, Projektplanung durchführen</li>
+    <li><strong>Entwicklung und Umsetzung von Algorithmen</strong> – Programmierlogik, Problemlösungen und Umsetzung technischer Anforderungen</li>
+    <li><strong>Wirtschafts- und Sozialkunde</strong> – Grundlagen aus Wirtschaft, Recht und Gesellschaft</li>
+  </ul>
+  <p>Die Inhalte auf dieser Website orientieren sich am aktuellen, offiziellen Prüfungskatalog und sind in drei übergeordnete Themenbereiche gegliedert. Wählen Sie oben ein Thema oder nutzen Sie die Suche.</p>
+</ng-template>
+
   `
 })
 export class ContentComponent implements OnInit {
@@ -77,10 +85,10 @@ export class ContentComponent implements OnInit {
   }
 
   scrollToTop() {
-  if (this.scrollableContent && this.scrollableContent.nativeElement) {
-    this.scrollableContent.nativeElement.scrollTop = 0;
+    if (this.scrollableContent && this.scrollableContent.nativeElement) {
+      this.scrollableContent.nativeElement.scrollTop = 0;
+    }
   }
-}
 
   onSearchInputChange() {
     if (this.searchQuery.length > 0) {

@@ -43,10 +43,10 @@ Ein E-Commerce-System besteht aus mehreren Komponenten: einer Benutzerverwaltung
 ## Weiterführende Links & Quellen
 
 - [Wikipedia: Softwaretest](https://de.wikipedia.org/wiki/Softwaretest#Teststufen) - Abschnitt zu Teststufen.
-- [Grundlagen der Teststufen (z.B. von Universitäten oder Fachportalen)](https://www.testing-board.de/fileadmin/downloads/ISTQB_Certified_Tester_Foundation_Level_Syllabus_2018_DE.pdf) - Siehe Kapitel 2: Testen während des Software-Lebenszyklus.
 - [Komponententest (Unit Testing) erklärt](https://www.guru99.com/unit-testing-guide.html) (Englischsprachige Ressource).
 - [Integration Testing erklärt](https://www.guru99.com/integration-testing.html) (Englischsprachige Ressource).
 - [System Testing erklärt](https://www.guru99.com/system-testing.html) (Englischsprachige Ressource).
+- [Teststufen](https://www.peterjohann-consulting.de/teststufen/)
 
 ---
 

@@ -104,10 +104,8 @@ In einer Datenbank für einen Online-Shop:
 
   - [Wikipedia: SQL](https://de.wikipedia.org/wiki/SQL)
   - [SQL Tutorial (W3Schools)](https://www.w3schools.com/sql/) (Englischsprachige Ressource mit vielen Beispielen).
-  - [SQL Befehlsübersicht (z.B. von Datenbankanbietern)](https://dev.mysql.com/doc/refman/8.0/en/sql-commands.html) (Englischsprachig, MySQL-spezifisch, aber viele Befehle sind Standard).
-  - [Datenpflege in Datenbanken – Grundlagen und Methoden](https://www.ionos.de/digitalguide/server/know-how/datenpflege-in-datenbanken-grundlagen-und-methoden/)
-  - [Datenintegrität in Datenbanken erklärt](https://www.databasestar.com/data-integrity/) (Englischsprachige Ressource).
-
+  - [SQL Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen)
+  - [Datenpflege: 11 Tipps](https://www.acquisa.de/magazin/datenpflege)
 -----
 
 > **Fehler gefunden?:** Falls du hier auf dieser Seite einen inhaltlichen Fehler gefunden hast, verwende bitte unten die "Fehler melden"-Funktion.

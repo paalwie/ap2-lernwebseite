@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Funktionale Anforderungen
+# Funktionale Anforderungen
 
 ## Einführung
 
@@ -80,7 +80,7 @@ Die Beratung sollte folgende Aspekte umfassen:
 
   - [Security by Design Principles (OWASP)](https://owasp.org/index.php/Security_by_Design_Principles) (Englischsprachige Ressource)
   - [NIST Guide to Integrating Security Throughout the Software Development Lifecycle (SDLC)](https://csrc.nist.gov/publications/detail/sp/800-64/rev-2/final) (Englischsprachige Ressource)
-  - [SANS Institute - Secure Software Development](https://www.sans.org/cyber-security-resources/by-topic/secure-software-development) (Englischsprachige Ressourcen)
+  - [Are you making software security a requirement?](https://www.blackduck.com/blog/software-security-requirements.html) (Englischsprachige Ressourcen)
 
 -----
 

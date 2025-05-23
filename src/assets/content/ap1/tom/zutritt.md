@@ -1,4 +1,4 @@
-# Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen: Zutrittskontrolle (z.B. Alarmanlage, Videoüberwachung, Besucherausweise)
+# Zutrittskontrolle (z.B. Alarmanlage, Videoüberwachung, Besucherausweise)
 
 ## Einführung
 
@@ -80,9 +80,8 @@ Die Prüfung der Wirksamkeit und Effizienz von Zutrittskontrollmaßnahmen kann v
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Physische Sicherheit](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Physische-Sicherheit/physische-sicherheit_node.html)
+  - [Wikipdia: Zutrittskontrolle](https://de.wikipedia.org/wiki/Zutrittskontrolle)
   - [DIN EN ISO 27001 - Informationssicherheit](https://www.iso.org/standard/54534.html) (Kapitel A.11 Physische und umgebungsbezogene Sicherheit)
-  - [Leitfaden zur physischen Sicherheit (z.B. von Branchenverbänden oder Sicherheitsunternehmen)](Link zu generischem Beispiel)
 
 -----
 

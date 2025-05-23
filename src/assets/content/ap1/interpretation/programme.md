@@ -47,8 +47,7 @@ Ein Vertriebsmitarbeiter erstellt eine Präsentation für einen wichtigen Kunden
 - [Wikipedia: Präsentationsprogramm](https://de.wikipedia.org/wiki/Pr%C3%A4sentationsprogramm)
 - [Microsoft PowerPoint Hilfe und Schulung (offizielle Seite)](https://support.microsoft.com/de-de/powerpoint)
 - [Apple Keynote Support (offizielle Seite)](https://support.apple.com/de-de/keynote)
-- [Google Präsentationen Hilfe (offizielle Seite)](https://support.google.com/slides/?hl=de#topic=9069923)
-- [LibreOffice Impress Handbuch (offizielle Seite)](https://wiki.documentfoundation.org/DE/Impress/Handbuch)
+- [LibreOffice Impress Handbuch (offizielle Seite)](https://de.libreoffice.org/get-help/documentation/#collapseImpress)
 
 ---
 

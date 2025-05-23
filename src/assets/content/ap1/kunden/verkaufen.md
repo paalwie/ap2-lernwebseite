@@ -33,8 +33,8 @@ Ein kleines Unternehmen entwickelt individuelle Softwarelösungen. Ein potenziel
 ## Weiterführende Links & Quellen
 
 - [Wikipedia: Vertrieb](https://de.wikipedia.org/wiki/Vertrieb)
-- [Wikipedia: Angebot (Wirtschaft)](https://de.wikipedia.org/wiki/Angebot_(Wirtschaft))
-- [Wikipedia: Auftrag (Wirtschaft)](https://de.wikipedia.org/wiki/Auftrag_(Wirtschaft))
+- [Wikipedia: Angebot (Wirtschaft)](https://de.wikipedia.org/wiki/Angebot_(Betriebswirtschaftslehre))
+- [Wikipedia: Auftrag](https://de.wikipedia.org/wiki/Auftrag)
 
 ---
 

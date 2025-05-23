@@ -57,9 +57,8 @@ Die Testdaten werden in einer Testdatenbank verwaltet, um sie für verschiedene 
 ## Weiterführende Links & Quellen
 
 - [Wikipedia: Testdaten](https://de.wikipedia.org/wiki/Testdaten)
-- [Best Practices für Testdatenmanagement](https://www.softwaretestingmagazine.com/magazine/archives/the-importance-of-test-data-management/) (Englischsprachiger Artikel).
-- [Methoden zur Testdatengenerierung](https://www.toolsqa.com/software-testing/test-data-generation-techniques/) (Englischsprachige Ressource).
-- [Die Rolle von Testdaten im Softwaretestprozess](https://www.inflectra.com/ideas/topic/test-data-management.aspx) (Englischsprachiger Artikel).
+- [Was sind Testdaten?](https://www.syntho.ai/de/what-is-test-data-significance-applications-and-challenges/)
+- [Testdaten](https://de.parasoft.com/glossary/test-data/)
 
 ---
 

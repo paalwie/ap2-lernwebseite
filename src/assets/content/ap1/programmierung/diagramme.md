@@ -50,11 +50,9 @@ Betrachten wir ein einfaches Szenario eines Online-Shops:
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Unified Modeling Language](https://de.wikipedia.org/wiki/Unified_Modeling_Language)
-  - [UML 2.5 Spezifikation (offizielle OMG-Seite, Englisch)](https://www.omg.org/spec/UML/2.5.1/About-UML.htm)
-  - [Einführung in UML (z.B. von Universitäten oder Fachportalen)](https://www.visual-paradigm.com/de/tutorials/uml-tutorial/) - Ein umfassendes Online-Tutorial.
-  - [Use Case Diagramm Tutorial](https://www.visual-paradigm.com/de/tutorials/use-case-diagram-tutorial/)
-  - [Class Diagramm Tutorial](https://www.visual-paradigm.com/de/tutorials/class-diagram-tutorial/)
-  - [Activity Diagramm Tutorial](https://www.visual-paradigm.com/de/tutorials/activity-diagram-tutorial/)
+  - [Wikipedia: Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivitätsdiagramm)
+  - [Wikipedia: Klassendiagramm](https://de.wikipedia.org/wiki/Klassendiagramm)
+  - [Wikipedia: Anwendungsfall](https://de.wikipedia.org/wiki/Anwendungsfall_(UML))
 
 -----
 

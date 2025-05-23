@@ -103,10 +103,10 @@ Durch diese Maßnahmen ist das Unternehmen deutlich besser gegen Ransomware-Angr
 
 ## Weiterführende Links & Quellen
 
-  - [Ransomware: Was Unternehmen jetzt wissen müssen (BSI)](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheit/Bedrohungen/Ransomware/ransomware_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
+  - [Digitale Erpressung](https://www.bka.de/DE/IhreSicherheit/RichtigesVerhalten/StraftatenImInternet/DigitaleErpressung/digitaleErpressung_node.html)
+  - [Schutz vor Ramsonware](https://www.srd-rechtsanwaelte.de/schutz-vor-ransomware)
+  - [Wikipedia: Ramsonware](https://de.wikipedia.org/wiki/Ransomware)
   - [No More Ransom! (Initiative zur Bekämpfung von Ransomware)](https://www.nomoreransom.org/de/index.html)
-  - [CISA (Cybersecurity and Infrastructure Security Agency) - Ransomware Guidance](https://www.cisa.gov/news-events/news/understanding-ransomware) (Englischsprachige Ressource)
-  - [SANS Institute - Ransomware Reading Room](https://www.sans.org/reading-room/whitepapers/threats/understanding-ransomware-lifecycle-39755) (Englischsprachige Ressource)
 
 -----
 

@@ -50,9 +50,8 @@ Die multimedialen Präsentationen auf dem Messestand und bei Kundenterminen sind
 ## Weiterführende Links & Quellen
 
 - [Wikipedia: Corporate Identity](https://de.wikipedia.org/wiki/Corporate_Identity)
-- [Deutsches Institut für Corporate Identity e.V.](https://www.corporate-identity.de/)
-- [Artikel zum Thema Corporate Design (z.B. auf Design-Portalen)](https://www.designreport.de/wissen/was-ist-corporate-design/)
-- [Ratgeber zur Entwicklung einer Corporate Identity (z.B. von Gründerplattformen)](https://www.gruenderplattform.de/wissen/marketing-vertrieb/corporate-identity)
+- [Was genau ist CI?](https://www.firma.de/unternehmensfuehrung/was-genau-ist-corporate-identity/)
+- [Studyflix: Corporate Identity](https://studyflix.de/wirtschaft/corporate-identity-6856)
 
 ---
 

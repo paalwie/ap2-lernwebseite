@@ -48,11 +48,8 @@ NoSQL ("Not Only SQL") Datenbanken sind eine Kategorie von nicht-relationalen Da
 
   - [Wikipedia: Relationales Datenbankmodell](https://de.wikipedia.org/wiki/Relationales_Datenbankmodell)
   - [Wikipedia: NoSQL](https://de.wikipedia.org/wiki/NoSQL)
-  - [Vergleich von relationalen und NoSQL Datenbanken](https://www.digitalocean.com/community/tutorials/relational-vs-nosql-databases) (Englischsprachiger Artikel).
-  - [Was ist eine NoSQL Datenbank? (Cloudflare)](https://www.cloudflare.com/de-de/learning/database/what-is-nosql/)
+  - [Vergleich von relationalen und NoSQL Datenbanken](https://www.talend.com/de/resources/sql-vs-nosql/) 
   - [Überblick über verschiedene NoSQL Datenbanktypen (Amazon Web Services)](https://aws.amazon.com/de/nosql/)
-  - [Das ACID-Prinzip in Datenbanken erklärt](https://www.ionos.de/digitalguide/server/know-how/acid-prinzip-einfach-erklaert/)
-  - [Das BASE-Prinzip in NoSQL Datenbanken erklärt](https://www.johndcook.com/blog/2009/11/16/base-versus-acid/) (Englischsprachiger Artikel).
 
 -----
 

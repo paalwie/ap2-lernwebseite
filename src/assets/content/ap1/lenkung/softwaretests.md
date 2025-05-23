@@ -90,11 +90,9 @@ Bei der Entwicklung einer Webanwendung für einen Online-Shop:
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Softwaretest](https://de.wikipedia.org/wiki/Softwaretest)
-  - [ISTQB (International Software Testing Qualifications Board)](https://www.istqb.org/de/) (Standard für Software-Qualifikationen).
-  - [Black-Box-Testverfahren erklärt](https://www.testingexcellence.com/what-is-black-box-testing/) (Englischsprachige Ressource).
-  - [White-Box-Testverfahren erklärt](https://www.testingexcellence.com/what-is-white-box-testing/) (Englischsprachige Ressource).
-  - [Einführung in Last- und Performancetests](https://www.blazemeter.com/blog/what-is-performance-testing-types-metrics-tools) (Englischsprachige Ressource).
-  - [Statische Codeanalyse – Grundlagen und Tools](https://www.synopsys.com/glossary/what-is-static-analysis.html) (Englischsprachige Ressource).
+  - [Wikipedia: Statisches Software-Testverfahren](https://de.wikipedia.org/wiki/Statisches_Software-Testverfahren)
+  - [Wikipedia: Dynamische Software-Testverfahren](https://de.wikipedia.org/wiki/Dynamisches_Software-Testverfahren)
+  - [Leitfaden zur Softwaretestverfahren](https://de.parasoft.com/blog/software-testing-methodologies-guide-a-high-level-overview/)
 
 -----
 

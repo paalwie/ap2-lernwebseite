@@ -1,4 +1,4 @@
-# Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen: Zugriffskontrolle (z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept)
+# Zugriffskontrolle (z.B. Verschlüsselung von Datenträgern, Löschung von Datenträgern, User/Rollenkonzept)
 
 ## Einführung
 
@@ -81,11 +81,12 @@ Die Prüfung der Wirksamkeit und Effizienz dieser spezifischen Zugangskontrollma
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Verschlüsselung](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Verschluesselung/verschluesselung_node.html)
-  - [BSI - Sichere Löschung](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Sichere-Loeschung/sichere-loeschung_node.html)
-  - [BSI - Identitäts- und Berechtigungsmanagement](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Identitaets-und-Berechtigungsmanagement/identitaets-und-berechtigungsmanagement_node.html)
+  - [Wikipedia: Zugriffskontrolle](https://de.wikipedia.org/wiki/Zugriffskontrolle)
+  - [Automatischer Festplattendegausser](https://veritysystems.com/de/produkt/verity-systems-datagauss-lg-max-festplatte-degausser/?gad_campaignid=1669641739)
+  - [Wikipedia: Role Based Access Control](https://de.wikipedia.org/wiki/Role_Based_Access_Control)
   - [NIST SP 800-111, Guide to Storage Encryption Technologies for End User Devices](https://csrc.nist.gov/publications/detail/sp/800-111/final)
   - [NIST SP 800-88 Rev. 1, Guidelines for Media Sanitization](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final)
+  - [Daten entgültig löschen](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Daten-sichern-verschluesseln-und-loeschen/Daten-endgueltig-loeschen/daten-endgueltig-loeschen_node.html)
 
 -----
 

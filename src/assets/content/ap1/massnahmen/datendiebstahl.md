@@ -99,7 +99,8 @@ Durch diese Maßnahmen reduziert das Unternehmen das Risiko eines erfolgreichen 
 
 ## Weiterführende Links & Quellen
 
-  - [Leitfaden zum Schutz vor Cyberangriffen (BSI)](https://www.bsi.bund.de/DE/Themen/Buerger/Informationen/SchutzVorCyberangriffen/schutzvorcyberangriffen_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
+  - [Wikipedia: Datendiebstahl](https://de.wikipedia.org/wiki/Datendiebstahl) 
+  - [Was ist Datendiebstahl?](https://www.proofpoint.com/de/threat-reference/data-theft) 
   - [Data Breach Investigations Report (jährliche Studie von Verizon)](https://www.verizon.com/business/resources/reports/dbir/) (Englischsprachige Ressource)
   - [National Institute of Standards and Technology (NIST) Cybersecurity Framework](https://www.nist.gov/cyberframework) (Englischsprachige Ressource mit umfassenden Richtlinien)
   - [SANS Institute - Reading Room (zahlreiche Whitepapers und Artikel zu IT-Sicherheitsthemen)](https://www.sans.org/reading-room/) (Englischsprachige Ressource)

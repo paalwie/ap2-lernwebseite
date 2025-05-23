@@ -85,10 +85,10 @@ Durch diese Maßnahmen reduziert das Unternehmen das Risiko, Opfer von Phishing-
 
 ## Weiterführende Links & Quellen
 
-  - [Phishing (BSI)](https://www.bsi.bund.de/DE/Themen/Buerger/Informationen/GefahrenImNetz/Phishing/phishing_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
+  - [Wikipedia: Phishing](https://de.wikipedia.org/wiki/Phishing)
+  - [Identitätsdiebstahl/Phishing](https://www.bka.de/DE/IhreSicherheit/RichtigesVerhalten/StraftatenImInternet/Identitaetsdiebstahl/identitaetsdiebstahl_node.html)
+  - [So schützen Sie sich vor digitalem Identitätsdiebstahl und gehackten Accounts](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Identitaetsdiebstahl/Schutzmassnahmen/schutzmassnahmen_node.html)
   - [Anti-Phishing Working Group (APWG)](https://apwg.org/) (Englischsprachige Ressource mit aktuellen Informationen und Statistiken)
-  - [StopThinkConnect - Understanding Phishing](https://www.cisa.gov/news-events/news/understanding-phishing) (Englischsprachige Ressource der Cybersecurity and Infrastructure Security Agency - CISA)
-  - [SANS Institute - Phishing Awareness Resources](https://www.sans.org/information-security-awareness/resources/phishing/) (Englischsprachige Ressource mit Schulungsmaterialien)
 
 -----
 

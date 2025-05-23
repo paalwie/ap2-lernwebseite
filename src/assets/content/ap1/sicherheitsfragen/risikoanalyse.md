@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Risikoanalyse
+# Risikoanalyse
 
 ## Einführung
 
@@ -85,9 +85,10 @@ Die Rolle des IT-Sicherheitsberaters umfasst:
 ## Weiterführende Links & Quellen
 
   - [ISO/IEC 27005: Information security, cybersecurity and privacy protection — Guidance on managing information security risks](https://www.iso.org/standard/75334.html)
-  - [BSI - Risikomanagement](https://www.bsi.bund.de/DE/Themen/Risikomanagement/risikomanagement_node.html)
+  - [Wikipedia: Risikoanalyse](https://de.wikipedia.org/wiki/Risikoanalyse)
   - [NIST SP 800-30 Rev. 1, Guide for Conducting Risk Assessments](https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final)
-  - [OWASP Risk Rating Methodology](https://owasp.org/www-project-risk-rating-methodology/)
+  - [Risikoanalye IT-Sicherheit](https://www.dataguard.de/blog/risikoanalyse-it-sicherheit/)
+  - [BSI-Standard 200-3](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/BSI-Standards/BSI-Standard-200-3-Risikomanagement/bsi-standard-200-3-risikomanagement_node.html#:~:text=Im%20BSI%20-Standard%20200-3,in%20ein%20vereinfachtes%20Gefährdungsmodell%20überführt.)
 
 -----
 

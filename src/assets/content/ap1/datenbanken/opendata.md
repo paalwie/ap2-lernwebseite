@@ -64,7 +64,7 @@ Eine Stadtverwaltung stellt Verkehrsdaten (z.B. Echtzeit-Informationen zu Bus- u
   - [GovData (Das Datenportal für Deutschland)](https://www.govdata.de/)
   - [RESTful API Design – Best Practices](https://restfulapi.net/) (Englischsprachige Ressource).
   - [GraphQL – Einführung](https://graphql.org/)
-  - [API-Dokumentation – Best Practices](https://nordicapis.com/best-practices-for-rest-api-documentation/) (Englischsprachige Ressource).
+  - [Was sind Datenbank-APIs?](https://www.astera.com/de/type/blog/database-api/)
 
 -----
 

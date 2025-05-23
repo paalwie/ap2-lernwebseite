@@ -3,7 +3,8 @@
   flex-direction: column;
   height: 100%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background-color: #f0fff0; /* Ein sehr helles Grün als Hintergrund für die Seite */
+  background-color: #f0fff0;
+  /* Ein sehr helles Grün als Hintergrund für die Seite */
 }
 
 app-header {
@@ -21,7 +22,8 @@ app-sidebar {
   width: 25%;
   max-width: 350px;
   min-width: 350px;
-  background-color: #f8f8f8; /* Heller Grauton für die Sidebar beibehalten */
+  background-color: #f8f8f8;
+  /* Heller Grauton für die Sidebar beibehalten */
   border-right: 1px solid #ddd;
 }
 
@@ -29,7 +31,8 @@ app-sidebar {
   flex-grow: 1;
   overflow: auto;
   padding: 20px;
-  background-color: white; /* Weiß für den Hauptinhalt */
+  background-color: white;
+  /* Weiß für den Hauptinhalt */
 }
 
 app-footer {
@@ -37,6 +40,7 @@ app-footer {
   /* Hintergrundfarbe und Textfarbe werden im footer.component.css definiert (wird auch Forest Green) */
   border-top: 1px solid #ddd;
 }
+
 /* --- Mobile Anpassungen --- */
 @media (max-width: 768px) {
   app-header {
@@ -54,7 +58,8 @@ app-footer {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5);
-    z-index: 998; /* Unter der Sidebar */
+    z-index: 998;
+    /* Unter der Sidebar */
     opacity: 0;
     visibility: hidden;
     transition: opacity 0.3s ease, visibility 0.3s ease;
@@ -66,20 +71,26 @@ app-footer {
   }
 
   app-sidebar {
-    width: 80%; /* <--- WICHTIG: Setze eine feste Breite, z.B. 80% des Bildschirms */
+    width: 80%;
+    /* <--- WICHTIG: Setze eine feste Breite, z.B. 80% des Bildschirms */
     min-width: unset;
     max-width: unset;
     border-right: none;
     height: 100vh;
-    position: fixed; /* MUSS FIXED SEIN */
+    position: fixed;
+    /* MUSS FIXED SEIN */
     top: 0;
-    left: -100%; /* Außerhalb des Bildschirms */
+    left: -100%;
+    /* Außerhalb des Bildschirms */
     transition: left 0.3s ease-in-out;
-    z-index: 999; /* Über dem Overlay */
+    z-index: 999;
+    /* Über dem Overlay */
     background-color: #f8f8f8;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);
-    padding-top: 60px; /* Platz für den Hamburger im Header */
-    overflow-y: auto; /* Sidebar-Inhalt kann intern scrollen */
+    padding-top: 60px;
+    /* Platz für den Hamburger im Header */
+    overflow-y: auto;
+    /* Sidebar-Inhalt kann intern scrollen */
   }
 
   app-sidebar.open {

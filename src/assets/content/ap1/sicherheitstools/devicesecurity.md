@@ -1,4 +1,4 @@
-# Verschiedene Tools zur Überprüfung von IT-Sicherheitsmaßnahmen erläutern: Device Security Check
+# Device Security Check
 
 ## Einführung
 
@@ -79,9 +79,9 @@ Es gibt verschiedene Tools und Methoden, die für einen Device Security Check ei
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Endgeräte-Sicherheit](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitsempfehlungen/Endgeraete/endgeraete_node.html)
-  - [NIST Cybersecurity for Home Users](https://www.nist.gov/itl/smallbusinesscybersecurity/cybersecurity-users-and-home) (Englischsprachige Ressource)
-  - [SANS Institute - Endpoint Security](https://www.sans.org/cyber-security-resources/by-topic/endpoint-security) (Englischsprachige Ressourcen)
+  - [What is Device Security?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-device-security.html)
+  - [Device Security Windows](https://support.microsoft.com/en-us/windows/device-security-in-the-windows-security-app-afa11526-de57-b1c5-599f-3a4c6a61c5e2)
+  - [How to Complete a Device Security Check](https://resources.additionfi.com/device-security-check)
 
 -----
 

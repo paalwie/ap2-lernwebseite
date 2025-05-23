@@ -86,9 +86,8 @@ Ein Softwareentwicklungsteam möchte die Qualität seiner Software verbessern un
 
   - [Wikipedia: Kontinuierlicher Verbesserungsprozess](https://de.wikipedia.org/wiki/Kontinuierlicher_Verbesserungsprozess)
   - [Wikipedia: PDCA-Zyklus](https://de.wikipedia.org/wiki/PDCA-Zyklus)
-  - [Qualitätsmanagement Kennzahlen (KPIs) – Definition und Beispiele](https://tqm.de/qualitaetsmanagement/qualitaetsmanagement-kennzahlen/)
-  - [Der Verbesserungsprozess im Qualitätsmanagement](https://www.qmb.info/verbesserungsprozess)
-  - [Deming Institute – The PDSA Cycle (Englischsprachige Ressource)](https://deming.org/the-deming-institute/the-deming-philosophy/pdsa-cycle/)
+  - [Was sind Qualitätskennzahlen](https://qualitaetsmanagement.me/kvp-einfuehren/qualitaetskennzahlen/)
+  - [Was ist kontinuierliche Verbesserung?](https://www.atlassian.com/de/agile/project-management/continuous-improvement)
 
 -----
 

@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Bedrohungsszenarien (z.B. Man-in-the-Middle, SQL-Injection, DDoS-Attack)
+# Bedrohungsszenarien (z.B. Man-in-the-Middle, SQL-Injection, DDoS-Attack)
 
 ## Einführung
 
@@ -76,10 +76,13 @@ Die Beratung sollte typische Bedrohungsszenarien erläutern und aufzeigen, wie m
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Bedrohungen und Risiken](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Bedrohungen-und-Risiken/bedrohungen-und-risiken_node.html)
+  - [PDF: Geballtes Hackingwissen](https://download1.franzis.de/cdn/media/pdf/36/36/0d/39074-3_LP_Geballtes_Hacking-Wissen_mehr_Sicherheit_im_Internet.pdf)
   - [OWASP Top Ten](https://owasp.org/www-project-top-ten/) (Liste der häufigsten Webanwendungssicherheitsrisiken)
   - [SANS Institute - Threat Landscape](https://www.sans.org/reading-room/whitepapers/threats/) (Englischsprachige Ressourcen)
   - [CISA (Cybersecurity and Infrastructure Security Agency) - Insights](https://www.cisa.gov/insights) (Englischsprachige Ressourcen zu aktuellen Bedrohungen)
+  - [Wikipedia: SQL-Injection](https://de.wikipedia.org/wiki/SQL-Injection)
+  - [Wikipedia: Man in the Middle Angriff](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff)
+  - [Wikipedia: Denial of Service](https://de.wikipedia.org/wiki/Denial_of_Service)
 
 -----
 

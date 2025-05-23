@@ -76,10 +76,10 @@ Angenommen, wir haben eine Tabelle `Mitarbeiter` mit den Spalten `MitarbeiterID`
 ## Weiterführende Links & Quellen
 
   - [SQL Tutorial (W3Schools) - SQL Operators](https://www.w3schools.com/sql/sql_operators.asp)
-  - [SQL Tutorial (W3Schools) - SQL Functions](https://www.w3schools.com/sql/sql_functions.asp)
   - [SQL Tutorial (W3Schools) - SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)
   - [SQL Tutorial (W3Schools) - SQL HAVING Clause](https://www.w3schools.com/sql/sql_having.asp)
   - [Übersicht über SQL-Ausdrücke (z.B. von Datenbankanbietern)](https://dev.mysql.com/doc/refman/8.0/en/expressions.html) (Englischsprachig, MySQL-spezifisch, aber viele Konzepte sind Standard).
+  - [SQL Expressions](https://www.tutorialspoint.com/sql/sql-expressions.htm)
 
 -----
 

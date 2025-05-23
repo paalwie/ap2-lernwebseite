@@ -82,10 +82,10 @@ Diese signifikante relative Abweichung würde eine detaillierte Analyse der Ursa
 
 ## Weiterführende Links & Quellen
 
-  - [Soll-Ist-Vergleich – Definition und Anwendung im Unternehmen](https://www.ionos.de/digitalguide/online-marketing/verkaufen/soll-ist-vergleich/)
-  - [Soll-Ist-Analyse: Definition, Ablauf & Vorteile](https://karriere.unicum.de/berufseinstieg/bewerbung/soll-ist-analyse)
-  - [Kennzahlen im Qualitätsmanagement: Was sie leisten und wie Sie sie nutzen](https://www.quality.de/themen/qualitaetsmanagement/kennzahlen-im-qm.html)
-  - [Leistungsindikatoren (KPIs) im Qualitätsmanagement](https://www.q-management-handbuch.de/qmh/html/l_03_02_01.html)
+  - [Abweichungsanalyse (Soll - Ist - Vergleich)](https://www.controllingportal.de/Fachinfo/Grundlagen/Abweichungsanalyse-Soll-Ist-Vergleich.html)
+  - [Soll-Ist-Vergleich im Controlling: Definition und Ermittlung](https://agicap.com/de/artikel/soll-ist-vergleich/)
+  - [Prozessüberwachung und -messung nach ISO 9001](https://www.qualitaetsmanagement-qm.de/qm-ausgaben-pro-sys/prozessueberwachung/)
+ 
 
 -----
 

@@ -80,10 +80,10 @@ Ein Benutzer meldet einen Fehler in einer Webanwendung, bei dem ein bestimmter B
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Debugging](https://de.wikipedia.org/wiki/Debugging)
-  - [Wikipedia: Ablaufverfolgung (Software)](https://de.wikipedia.org/wiki/Ablaufverfolgung_(Software))
+  - [Wikipedia: Ablaufverfolgung](https://de.wikipedia.org/wiki/Ablaufverfolgung)
   - [Debugging-Techniken (z.B. von Softwareentwicklungs-Plattformen)](https://developers.google.com/web/tools/chrome-devtools/javascript/step-code) (Englischsprachige Ressource, spezifisch für Chrome DevTools, aber Konzepte sind allgemein).
-  - [Logging Best Practices](https://stackify.com/best-practices-logging/) (Englischsprachige Ressource).
-  - [Application Performance Monitoring (APM) – Grundlagen](https://www.dynatrace.com/what-is/application-performance-monitoring/) (Englischsprachige Ressource).
+  - [Debugging mit Eclipse](https://javabeginners.de/IDE/Eclipse_Screenshot-Tutorials/Debugging_mit_Eclipse.php)
+  - [Debug code with Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
 
 -----
 

@@ -1,4 +1,4 @@
-# Verschiedene Tools zur Überprüfung von IT-Sicherheitsmaßnahmen erläutern: Penetrations-Test
+# Penetrations-Test
 
 ## Einführung
 
@@ -123,7 +123,7 @@ Eine Vielzahl von Tools wird bei Penetrationstests eingesetzt, sowohl kommerziel
 
   - [OWASP Penetration Testing](https://owasp.org/www-project-web-security-testing-guide/)
   - [NIST SP 800-115, Guide to Security Testing](https://csrc.nist.gov/publications/detail/sp/800-115/final)
-  - [SANS Institute - Penetration Testing](https://www.sans.org/cyber-security-resources/by-topic/penetration-testing)
+  - [Penetrationstest (Informatik)](https://de.wikipedia.org/wiki/Penetrationstest_(Informatik))
 
 -----
 

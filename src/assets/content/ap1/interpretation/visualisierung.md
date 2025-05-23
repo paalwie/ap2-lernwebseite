@@ -53,10 +53,9 @@ Er achtet darauf, dass die Diagramme klar beschriftet sind, eine aussagekräftig
 
 ## Weiterführende Links & Quellen
 
-- [Wikipedia: Datenvisualisierung](https://de.wikipedia.org/wiki/Datenvisualisierung)
-- [Leitfaden zur effektiven Datenvisualisierung (z.B. von Universitäten oder Beratungsunternehmen)](https://www.uni-bamberg.de/fileadmin/unibamberg/fakultaeten/wiso_vwl/lehrstuehle/statistik/Dateien/Lehre/Datenvisualisierung_Leitfaden.pdf)
-- [Vorstellung verschiedener Datenvisualisierungstools](https://datanews.hypotheses.org/131)
-- [Best Practices für die Gestaltung von Diagrammen](https://www.haufe.de/controlling/reporting/tipps-und-tricks-zur-diagrammgestaltung_192_161882.html)
+- [Wikipedia: Datenvisualisierung](https://de.wikipedia.org/wiki/Visualisierung)
+- [Wikipedia: Informationsvisualisierung](https://de.wikipedia.org/wiki/Informationsvisualisierung)
+- [Was ist Datenvisualisierung?](https://aws.amazon.com/de/what-is/data-visualization/#:~:text=Datenvisualisierung%20ist%20der%20Prozess%20der,die%20leichter%20zu%20verarbeiten%20ist.)
 
 ---
 

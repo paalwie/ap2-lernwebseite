@@ -60,8 +60,7 @@ Durch die Normalisierung dieser Tabelle in separate Tabellen für Studenten, Kur
 
   - [Wikipedia: Datenbanknormalisierung](https://de.wikipedia.org/wiki/Datenbanknormalisierung)
   - [Grundlagen der Datenbanknormalisierung (z.B. von Universitäten oder Fachportalen)](https://www.studytonight.com/dbms/database-normalization.php) (Englischsprachige Ressource mit guten Erklärungen).
-  - [Erklärung der Normalformen (1NF, 2NF, 3NF) mit Beispielen](https://www.essentialsql.com/get-ready-for-the-certification-exam-understanding-database-normal-forms/) (Englischsprachige Ressource).
-  - [Überblick über Anomalien in Datenbanken](https://www.geeksforgeeks.org/database-anomalies-in-dbms/) (Englischsprachige Ressource).
+  - [Redundante Daten, Anomalien und die Normalisierung von Datenbanken](https://wiki-mathe-info.de/info/sek-ii/q2/sql/lektion5)
 
 -----
 

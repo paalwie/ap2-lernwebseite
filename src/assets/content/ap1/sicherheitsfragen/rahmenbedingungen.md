@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Rahmenbedingungen - Technologisch, Organisatorisch, Rechtlich, Ethisch
+# Rahmenbedingungen - Technologisch, Organisatorisch, Rechtlich, Ethisch
 
 ## Einführung
 

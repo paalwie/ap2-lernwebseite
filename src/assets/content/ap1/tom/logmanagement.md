@@ -1,4 +1,4 @@
-# Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen: Log Management
+# Log Management
 
 ## Einführung
 
@@ -82,9 +82,9 @@ Die Prüfung der Wirksamkeit und Effizienz des Log Managements kann verschiedene
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Protokollierung und Log-Analyse](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Protokollierung-und-Log-Analyse/protokollierung-und-log-analyse_node.html)
+  - [Wikipedia: Log Management](https://de.wikipedia.org/wiki/Log_Management)
   - [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
-  - [SANS Institute - Logging and Monitoring](https://www.sans.org/cyber-security-resources/by-topic/logging-monitoring)
+  - [Was ist Log Management?](https://www.betasystems.com/de/ressourcen/blog/was-ist-log-management)
   - [NIST SP 800-92, Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
 
 -----

@@ -47,8 +47,6 @@ Ein Entwicklungsteam arbeitet an einer Webanwendung zur Verwaltung von Kundenbes
 ## Weiterführende Links & Quellen
 
 - [Wikipedia: Softwaretest](https://de.wikipedia.org/wiki/Softwaretest)
-- [ISTQB (International Software Testing Qualifications Board)](https://www.istqb.org/de/) - Bietet Standards und Zertifizierungen im Bereich Softwaretest.
-- [Grundlagen des Softwaretests (z.B. von Universitäten oder Fachportalen)](https://www.testing-board.de/fileadmin/downloads/ISTQB_Certified_Tester_Foundation_Level_Syllabus_2018_DE.pdf) - Dies ist der offizielle Lehrplan für den ISTQB Certified Tester Foundation Level, der einen guten Überblick über die Grundlagen bietet.
 - [Überblick über Black-Box-Testing](https://www.guru99.com/black-box-testing.html) (Englischsprachige Ressource mit guten Erklärungen).
 - [Überblick über White-Box-Testing](https://www.guru99.com/white-box-testing.html) (Englischsprachige Ressource mit guten Erklärungen).
 - [Informationen zu Code-Reviews](https://www.atlassian.com/de/agile/software-development/code-reviews)

@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Qualitätsanforderungen
+# Qualitätsanforderungen
 
 ## Einführung
 
@@ -78,7 +78,7 @@ Die Beratung sollte folgende Aspekte umfassen:
 
   - [ISO/IEC 25010: Systems and software quality models](https://www.iso.org/standard/35733.html) (Internationaler Standard für Softwarequalität)
   - [Non-functional requirements (Wikipedia)](https://en.wikipedia.org/wiki/Non-functional_requirement) (Englischsprachige Ressource)
-  - [Balancing Security and Usability](https://www.usenix.org/legacy/event/sec07/tech/full_papers/whitten/whitten.pdf) (Wissenschaftliche Arbeit zum Thema)
+  - [IT-Sicherheitsberatung: Grundlagen und Best Practices](https://www.dataguard.de/blog/it-sicherheit-beratung/) 
 
 -----
 

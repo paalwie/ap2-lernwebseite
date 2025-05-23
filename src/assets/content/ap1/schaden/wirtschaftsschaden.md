@@ -63,8 +63,9 @@ Auch wenn Präventionsmaßnahmen getroffen wurden, kann es zu Sicherheitsvorfäl
 
   - [The Cost of a Data Breach Report (jährliche Studie von IBM und Ponemon Institute)](https://www.ibm.com/security/data-breach) (Englischsprachige Ressource)
   - [Economic impacts of cybercrime (OECD)](https://www.oecd.org/sti/ieconomy/economic-impacts-of-cybercrime.htm) (Englischsprachige Ressource)
-  - [Leitfaden zur Schadensbewältigung nach Cyber-Angriffen (BSI)](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyberabwehr/Leitfaeden/BSI_Leitfaden_Schadensbewaeltigung.pdf?__blob=publicationFile&v=4) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
-  - [Cyber Insurance: A Primer (Congressional Research Service)](https://crsreports.congress.gov/product/pdf/IF/IF11724) (Englischsprachige Ressource)
+  - [PDF: Kosten eines Cyber-Schadensfalles](https://www.bitkom.org/sites/default/files/file/import/160426-LF-Cybersicherheit.pdf) 
+  - [Was ist ein IT-Sicherheitsvorfall?](https://www.cybersicherheit-bw.de/was-ist-ein-it-sicherheitsvorfall#:~:text=Social-Engineering%2C%20IT-%20Phishing,Kommunen%20sowie%20Bürgerinnen%20und%20Bürger.) 
+
 
 -----
 

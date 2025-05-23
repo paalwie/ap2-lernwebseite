@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Private Haushalte
+# Private Haushalte
 
 ## Einführung
 

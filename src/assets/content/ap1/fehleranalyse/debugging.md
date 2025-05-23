@@ -45,7 +45,7 @@ Ein Entwickler arbeitet an einer Funktion, die eine Liste von Kundendaten verarb
 - [Wikipedia: Debugging](https://de.wikipedia.org/wiki/Debugging)
 - [Debugging in Visual Studio (offizielle Microsoft-Dokumentation)](https://learn.microsoft.com/de-de/visualstudio/debugger/debugger-feature-tour)
 - [Debugging in IntelliJ IDEA (offizielle JetBrains-Dokumentation)](https://www.jetbrains.com/de-de/help/idea/debugging-code.html)
-- [Debugging mit dem Chrome DevTools (offizielle Google-Dokumentation)](https://developer.chrome.com/docs/devtools/javascript/debug/)
+- [How to Debug Your Code for Beginners (Englisch)](https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/)
 
 ---
 

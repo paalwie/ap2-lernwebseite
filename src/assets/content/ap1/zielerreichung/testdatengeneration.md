@@ -72,10 +72,9 @@ Durch den Einsatz des Testdatengenerators kann das Team eine umfassendere Testab
 
 ## Weiterführende Links & Quellen
 
-  - [Test Data Generation: An Overview](https://www.softwaretestinghelp.com/test-data-generation-tutorial/) (Englischsprachige Ressource).
-  - [Top 10 Test Data Generation Tools](https://www.guru99.com/test-data-generation-tools.html) (Englischsprachige Ressource mit Tool-Übersicht).
-  - [Synthetic Data Generation for Testing](https://medium.com/towards-data-science/synthetic-data-generation-for-testing-8ff3195a814) (Englischsprachige Ressource zum Thema synthetische Daten).
-  - [Best Practices for Test Data Management](https://www.ibm.com/garage/method/practices/govern/test-data-management/) (Englischsprachige Ressource mit Best Practices).
+  - [Daten als Schlüssel für ein wirksames Qualitätsmanagement](https://www.adesso.de/de/news/blog/daten-als-schluessel-fuer-ein-wirksames-qualitaetsmanagement.jsp)
+  - [Automatisierte Generierung von Testcode und Testdaten](https://insights.mgm-tp.com/de/automatisierte-generierung-von-testcode-und-testdaten-fuer-modellbasierte-low-code-anwendungen/)
+  - [Testdatenmanagement](https://xebia.com/switzerland-de/testdatenmanagement-die-unterschaetzte-herausforderung/)
 
 -----
 

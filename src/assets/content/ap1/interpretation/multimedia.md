@@ -46,10 +46,9 @@ Ein Marketingteam erstellt eine Social-Media-Kampagne für ein neues Produkt.
 
 ## Weiterführende Links & Quellen
 
-- [Übersicht über verschiedene Arten von Multimedia-Software](https://de.wikipedia.org/wiki/Kategorie:Multimedia-Software)
-- [Vergleich von Bildbearbeitungsprogrammen](https://www.digitalphoto.de/ratgeber/die-besten-bildbearbeitungsprogramme-fuer-windows-und-mac-im-vergleich-2023/)
-- [Vergleich von Videobearbeitungsprogrammen](https://www.chip.de/test/Videobearbeitungsprogramme-im-Test_170988887.html)
-- [Informationen zu Open-Source-Multimedia-Software](https://opensource.com/article/18/6/open-source-tools-multimedia-creation)
+- [20 besten Tools zur Erstellung von Inhalten](https://fliphtml5.com/learning-center/de/top-20-content-creator-tools/)
+- [Wikipedia: Multimedia](https://de.wikipedia.org/wiki/Multimedia)
+- [Was ist Multimedia Content?](https://toolmaster.ch/multimedia-content-was-ist-multimedia-content/)
 
 ---
 

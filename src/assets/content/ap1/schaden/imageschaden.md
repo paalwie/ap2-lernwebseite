@@ -59,10 +59,10 @@ Sollte es trotz aller Präventionsmaßnahmen zu einem IT-Sicherheitsvorfall komm
 
 ## Weiterführende Links & Quellen
 
-  - [Reputation Management nach einer Datenpanne](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitsempfehlungen/Datenklau/Reputationsmanagement/reputationsmanagement_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
+  - [Imageschaden durch Datenschutzverletzung: Diese Kosten drohen](https://www.hub24.de/blog/imageschaden-datenschutzverletzung/) 
   - [The Cost of a Data Breach Report (jährliche Studie von IBM und Ponemon Institute)](https://www.ibm.com/security/data-breach) (Englischsprachige Ressource)
   - [Crisis Communications Plan: The 10 Steps You Need to Take](https://www.bernsteincrisismanagement.com/the-10-steps-of-crisis-communications/) (Englischsprachige Ressource)
-  - [How to Manage Your Company's Reputation After a Data Breach](https://www.securitymetrics.com/blog/how-manage-your-companys-reputation-after-data-breach) (Englischsprachige Ressource)
+
 
 -----
 

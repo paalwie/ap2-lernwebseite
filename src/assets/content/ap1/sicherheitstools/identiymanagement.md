@@ -1,4 +1,4 @@
-# Verschiedene Tools zur Überprüfung von IT-Sicherheitsmaßnahmen erläutern: Identity & Access Management (IAM)
+# Identity & Access Management (IAM)
 
 ## Einführung
 
@@ -77,9 +77,8 @@ Es gibt verschiedene Tools und Methoden, um die Implementierung und Konfiguratio
 ## Weiterführende Links & Quellen
 
   - [NIST Cybersecurity Framework - Identify, Protect, Detect, Respond, Recover](https://www.nist.gov/cyberframework)
-  - [OWASP Identity Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Identity_Management_Cheat_Sheet.html)
+  - [Wikipedia: Identitätsmanagement](https://de.wikipedia.org/wiki/Identitätsmanagement)
   - [Cloud Security Alliance (CSA) - Identity and Access Management](https://cloudsecurityalliance.org/group/identity-and-access-management/)
-  - [BSI - Identitäts- und Berechtigungsmanagement](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Identitaets-und-Berechtigungsmanagement/identitaets-und-berechtigungsmanagement_node.html)
 
 -----
 

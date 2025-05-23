@@ -96,7 +96,7 @@ Angenommen, wir haben eine Tabelle namens `Artikel` mit den Spalten `ArtikelID` 
 
   - [SQL Tutorial (W3Schools) - SQL CREATE TABLE](https://www.w3schools.com/sql/sql_create_table.asp)
   - [SQL Tutorial (W3Schools) - SQL ALTER TABLE](https://www.w3schools.com/sql/sql_alter.asp)
-  - [SQL Tutorial (W3Schools) - SQL DROP TABLE](https://www.google.com/search?q=https://www.w3schools.com/sql/sql_drop.asp)
+  - [SQL Tutorial (W3Schools) - SQL DROP TABLE](https://www.w3schools.com/sql/sql_ref_drop_table.asp)
   - [SQL Tutorial (W3Schools) - SQL INDEX](https://www.w3schools.com/sql/sql_create_index.asp)
   - [SQL Tutorial (W3Schools) - SQL SELECT](https://www.w3schools.com/sql/sql_select.asp)
   - [SQL Tutorial (W3Schools) - SQL WHERE](https://www.w3schools.com/sql/sql_where.asp)

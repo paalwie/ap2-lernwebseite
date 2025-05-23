@@ -43,7 +43,7 @@ Ein Entwicklungsteam arbeitet gemeinsam an einer neuen Funktion für eine Webanw
 
 - [Wikipedia: Versionsverwaltung](https://de.wikipedia.org/wiki/Versionsverwaltung)
 - [Git-Dokumentation (offizielle Seite)](https://git-scm.com/book/de/v2) - Ein umfassendes Buch über Git, ein weit verbreitetes Versionsmanagementsystem.
-- [GitHub Learning Lab](https://lab.github.com/) - Interaktive Tutorials zum Erlernen von Git und GitHub.
+- [GitHub Learning Lab](https://github.com/apps/github-learning-lab) - Interaktive Tutorials zum Erlernen von Git und GitHub.
 - [Atlassian Git Tutorial](https://www.atlassian.com/de/git/tutorials) - Gut verständliche Tutorials zu Git-Grundlagen und fortgeschrittenen Themen.
 - [Vergleich verschiedener Versionskontrollsysteme](https://en.wikipedia.org/wiki/Comparison_of_version_control_software) - Eine Übersicht über verschiedene VCS (Englischsprachige Wikipedia-Seite).
 

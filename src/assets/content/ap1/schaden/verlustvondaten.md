@@ -72,10 +72,9 @@ Trotz aller Vorsichtsmaßnahmen kann es zu Datenverlust kommen. Ein strukturiert
 
 ## Weiterführende Links & Quellen
 
-  - [Leitfaden zur Datensicherung (BSI)](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitsempfehlungen/Daten/Datensicherung/datensicherung_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
-  - [Data Loss Prevention (DLP): A Complete Guide](https://www.digitalguardian.com/blog/what-is-data-loss-prevention-dlp) (Englischsprachige Ressource)
-  - [The Importance of Data Backup and Recovery](https://www.veeam.com/blog/importance-data-backup-recovery.html) (Englischsprachige Ressource)
-  - [Understanding the Costs of Data Loss](https://www.ontrack.com/en-us/data-recovery/costs-of-data-loss) (Englischsprachige Ressource)
+  - [Datensicherung und Datenverlust](https://www.proofpoint.com/de/threat-reference/data-theft) 
+  - [Datenvelust: Die häufigsten Ursachen](https://www.idgard.com/de/glossar/datenverlust/)
+  - [Die Risiken von Datenverlust und wie Backup-Lösungen diese minimieren](https://www.hagel-it.de/it-insights/die-risiken-von-datenverlust-und-wie-backup-loesungen-diese-minimieren.html)
 
 -----
 

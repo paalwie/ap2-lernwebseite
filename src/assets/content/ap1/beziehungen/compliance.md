@@ -38,6 +38,7 @@ Ein Online-Marktplatz implementiert einen Prozess zur Überprüfung der Identit�
 ## Weiterführende Links & Quellen
 
 - [Informationen zur Datenschutzgrundverordnung (DSGVO)](https://dsgvo-gesetz.de/)
+- [Wikipedia: Compliance (BWL)](https://de.wikipedia.org/wiki/Compliance_(BWL))
 
 ---
 

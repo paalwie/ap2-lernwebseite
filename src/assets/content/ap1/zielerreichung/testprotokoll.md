@@ -92,10 +92,8 @@ Dieser fehlgeschlagene Testfall wird im Testprotokoll vermerkt und mit einem Feh
 
 ## Weiterführende Links & Quellen
 
-  - [Test Log – A Complete Guide](https://www.softwaretestinghelp.com/test-log/) (Englischsprachige Ressource).
-  - [How to Write Effective Test Cases](https://www.softwaretestinghelp.com/how-to-write-test-cases/) (Enthält Aspekte der Protokollierung).
-  - [Best Practices for Test Management](https://www.qasymphony.com/blog/test-management-best-practices/) (Englischsprachige Ressource).
-  - [Übersicht über Testmanagement-Tools](https://en.wikipedia.org/wiki/List_of_test_management_tools) (Englischsprachige Ressource).
+  - [Testprotokoll - Testergebnisse systematisch erfassen](https://www.peterjohann-consulting.de/testprotokoll/)
+  - [Wikipedia: Software Test Documentation](https://de.wikipedia.org/wiki/Software_Test_Documentation)
 
 -----
 

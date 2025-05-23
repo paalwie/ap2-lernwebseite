@@ -81,11 +81,10 @@ In einer Datenbank für eine Bibliothek könnten folgende Datentypen verwendet w
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Datentyp](https://de.wikipedia.org/wiki/Datentyp) (Abschnitt Datenbanken)
+  - [Wikipedia: Binary Large Object](https://de.wikipedia.org/wiki/Binary_Large_Object)
   - [MySQL Datentypen (offizielle MySQL-Dokumentation)](https://dev.mysql.com/doc/refman/8.0/en/data-types.html) (Englischsprachig, spezifisch, aber gibt einen guten Überblick)
   - [PostgreSQL Datentypen (offizielle PostgreSQL-Dokumentation)](https://www.postgresql.org/docs/current/datatype.html) (Englischsprachig, spezifisch, aber gibt einen guten Überblick)
-  - [SQL Server Datentypen (offizielle Microsoft-Dokumentation)](https://learn.microsoft.com/de-de/sql/t-sql/data-types-transact-sql?view=sql-server-ver16)
-  - [MongoDB Datentypen (offizielle MongoDB-Dokumentation)](https://www.mongodb.com/docs/manual/reference/bson-types/) (Englischsprachig, für eine NoSQL-Datenbank)
-
+ 
 -----
 
 > **Fehler gefunden?:** Falls du hier auf dieser Seite einen inhaltlichen Fehler gefunden hast, verwende bitte unten die "Fehler melden"-Funktion.

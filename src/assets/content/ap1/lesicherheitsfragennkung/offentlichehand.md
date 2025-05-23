@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Öffentliche Hand
+# Öffentliche Hand
 
 ## Einführung
 
@@ -89,11 +89,10 @@ Eine umfassende Beratung der öffentlichen Hand in Bezug auf IT-Sicherheit sollt
 
 ## Weiterführende Links & Quellen
 
-  - [BSI für öffentliche Verwaltungen](https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltungen/oeffentliche-verwaltungen_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
-  - [BSI IT-Grundschutz-Kompendium für Behörden](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKompendium/Inhalt/Inh_A/inh_a_node.html)
-  - [DigitalService Bund](https://www.digitalservice.bund.de/)
-  - [Kompetenzzentrum Öffentliche IT (KöVIT)](https://www.koevit.de/)
-  - [Nationale Cyber-Sicherheitsstrategie (NCSS)](https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/it-sicherheit/ncss-2021.pdf?__blob=publicationFile&v=4)
+  - [Wikipedia: Öffentliche Hand](https://de.wikipedia.org/wiki/Öffentliche_Hand) 
+  - [Kommunale IT-Sicherheit](https://www.smart-city-dialog.de/wissen/blog/kommunale-it-sicherheit-herausforderungen-und-loesungswege) 
+  - [Informationssicherheit in Kommunen](https://www.pd-g.de/die-beratungsschwerpunkte-der-pd/informationssicherheit-in-kommunen) 
+  - [IT-Sicherheit und Datenschutz im öffentlichen Sektor](https://www.egovernment.de/it-sicherheit-und-datenschutz-im-oeffentlichen-sektor-a-0431b0eb60a99474b28ec5c196768558/) 
 
 -----
 

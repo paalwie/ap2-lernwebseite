@@ -95,7 +95,7 @@ Es ist wichtig zu beachten, dass die meisten Aggregat-Funktionen (`SUM()`, `AVG(
   - [Übersicht über SQL Aggregat-Funktionen (z.B. von Datenbankanbietern)](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html) (Englischsprachig, MySQL-spezifisch, aber viele Konzepte sind Standard).
   - [Erklärung der COUNT()-Funktion in SQL](https://www.sqlitetutorial.net/sqlite-count/) (Konzept ist allgemein gültig).
   - [Erklärung der SUM()- und AVG()-Funktionen in SQL](https://www.sqlitetutorial.net/sqlite-sum/) (Konzept ist allgemein gültig).
-  - [Erklärung der MIN()- und MAX()-Funktionen in SQL](https://www.sqlitetutorial.net/sqlite-min-function/) (Konzept ist allgemein gültig).
+  - [Erklärung der MIN()- und MAX()-Funktionen in SQL](https://learnsql.de/blog/sql-min-und-max-funktionen-in-6-beispielen-erklaert/) 
 
 -----
 

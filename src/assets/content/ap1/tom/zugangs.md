@@ -1,4 +1,4 @@
-# Wirksamkeit und Effizienz der umgesetzten Technisch Organisatorischen Maßnahmen (TOM) zur IT-Sicherheit und zum Datenschutz prüfen: Zugangskontrolle (z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte)
+# Zugangskontrolle (z.B. Bildschirmschoner mit Passwortschutz, Biometrische Verfahren, Magnet- oder Chipkarte)
 
 ## Einführung
 
@@ -83,8 +83,8 @@ Die Prüfung der Wirksamkeit und Effizienz von Zugangskontrollmaßnahmen kann ve
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - Zugriffskontrolle](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Zugriffskontrolle/zugriffskontrolle_node.html)
-  - [NIST Cybersecurity Framework - Access Control](https://www.nist.gov/cyberframework/identify-functions/id.ac-access-control)
+  - [Wikipedia: Zugangskontrolle (Informatik)](https://de.wikipedia.org/wiki/Zugangskontrolle_(Informatik))
+  - [Biometrie bei der Zutritts- und Zugriffskontrolle](https://www.security-insider.de/biometrie-bei-der-zutritts-und-zugriffskontrolle-a-8539ae6ce1ad97065d10f367c7bae7df/)
   - [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
   - [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
 

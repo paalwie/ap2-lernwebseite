@@ -76,10 +76,9 @@ Beide Darstellungen machen die Kontrollstruktur der Selektion (die `WENN`-Beding
 ## Weiterführende Links & Quellen
 
   - [Wikipedia: Aktivitätsdiagramm](https://de.wikipedia.org/wiki/Aktivit%C3%A4tsdiagramm)
-  - [UML 2.5 Spezifikation (offizielle OMG-Seite, Englisch)](https://www.omg.org/spec/UML/2.5.1/About-UML.htm) - Abschnitt zu Aktivitätsdiagrammen.
   - [Wikipedia: Pseudocode](https://de.wikipedia.org/wiki/Pseudocode)
-  - [Pseudocode-Beispiele und Konventionen (z.B. von Universitäten oder Lehrmaterialien)](https://www.google.com/search?q=https://www.uni-due.de/imperia/md/content/didaktik_der_informatik/pseudocode.pdf) - Ein Beispiel von der Universität Duisburg-Essen.
-  - [Einführung in Kontrollstrukturen in der Programmierung (z.B. auf Lernplattformen)](https://www.google.com/search?q=https://openbook.rheinwerk-computing.de/javainsel9/02_basiselemente/02_03_kontrollstrukturen.htm) - Ein Kapitel aus einem Online-Java-Buch, das die Konzepte gut erklärt.
+  - [Lucidchart: Aktivitätsdiagramm](https://www.lucidchart.com/pages/de/uml-aktivitatsdiagramme)
+  - [Was ist Pseudocode?](https://www.computerweekly.com/de/tipp/Was-ist-Pseudocode-und-wie-arbeitet-man-damit)
 
 -----
 

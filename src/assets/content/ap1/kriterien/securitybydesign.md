@@ -71,10 +71,11 @@ Ein Hersteller von Antivirensoftware könnte folgende IT-Sicherheitskriterien de
 ## Weiterführende Links & Quellen
 
   - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles) (Englischsprachige Ressource von OWASP)
-  - [NISTIR 7626, Toward a More User-Centric Approach to Cybersecurity](https://csrc.nist.gov/publications/detail/nistir/7626/final) (Englischsprachige Ressource von NIST zum benutzerzentrierten Ansatz in der Cybersicherheit)
-  - [The Importance of Usability in Security Software](https://heimdalsecurity.com/blog/usability-security-software/) (Englischsprachige Ressource)
-  - [Designing Secure and Usable Systems](https://www.usenix.org/legacy/event/sec07/tech/full_papers/whitten/whitten.pdf) (Wissenschaftliche Arbeit zum Thema)
-
+  - [Wikipedia (eng): Secure by Design](https://en.wikipedia.org/wiki/Secure_by_design)
+  - [Security by Design: Die Zukunft der IT-Sicherheit](https://www.genua.de/security-by-design#:~:text=Was%20ist%20Security%20by%20Design,per%20Design%20und%20per%20Default.)
+  - [Was ist Security by Design](https://www.security-insider.de/was-ist-security-by-design-a-1071181/)
+  - [Öffentliche IT: Security by Design](https://www.oeffentliche-it.de/-/security-by-design)
+ 
 -----
 
 > **Fehler gefunden?:** Falls du hier auf dieser Seite einen inhaltlichen Fehler gefunden hast, verwende bitte unten die "Fehler melden"-Funktion.

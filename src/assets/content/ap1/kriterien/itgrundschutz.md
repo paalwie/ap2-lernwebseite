@@ -74,10 +74,11 @@ Diese Kriterien sind direkt aus den Empfehlungen des IT-Grundschutzkatalogs abge
 
 ## Weiterführende Links & Quellen
 
-  - [BSI - IT-Grundschutz](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
-  - [BSI - IT-Grundschutz-Kompendium](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/ITGrundschutzKompendium/itgrundschutzkompendium_node.html) (Detaillierte Informationen zu den Bausteinen und Maßnahmen)
-  - [BSI - GSTOOL (Grundschutz-Tool)](https://www.bsi.bund.de/DE/Themen/ITGrundschutz/Werkzeuge/GSTOOL/gstool_node.html) (Software zur Unterstützung der IT-Grundschutzmodellierung)
-  - [IT-Grundschutz einfach erklärt](https://www.datenschutzexperte.de/it-grundschutz/)
+  - [IT-Sicherheitsmanagement: Der umfassende Einstieg](https://upload-magazin.de/45064-it-sicherheitsmanagement/)
+  - [Lektion 5: Modellierung](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_5_Modellierung/Lektion_5_node.html)
+  - [Test zu Lektion 5](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_5_Modellierung/5_06_Testfragen.html#:~:text=Welche%20Aufgaben%20stellen%20sich%20Ihnen,die%20Sicherheitsarchitektur%20des%20betrachteten%20Informationsverbundes.)
+  - [IT-Sicherheitskriterien - Common Criteria](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Zertifizierung-und-Anerkennung/Zertifizierung-von-Produkten/Zertifizierung-nach-CC/IT-Sicherheitskriterien/it-sicherheitskriterien_node.html#:~:text=eine%20objektive%20Bewertung%20der%20Korrektheit%20und%20der,(im%20Gegensatz%20zur%20Herstellererklärung)%20zu%20ermöglichen%20und.)
+ 
 
 -----
 

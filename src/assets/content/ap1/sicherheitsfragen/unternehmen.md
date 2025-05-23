@@ -1,4 +1,4 @@
-# Kunden zur IT-Sicherheit beraten: Unternehmen (intern, extern)
+# Unternehmen (intern, extern)
 
 ## Einführung
 
@@ -98,7 +98,6 @@ Die Beratung externer Kunden zielt darauf ab, die Sicherheit der Interaktionen u
   - [BSI für Unternehmen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/unternehmen-und-organisationen_node.html) (Bundesamt für Sicherheit in der Informationstechnik - BSI)
   - [Allianz für Cyber-Sicherheit](https://www.allianz-fuer-cybersicherheit.de/)
   - [OWASP (Open Web Application Security Project) - Trainings und Ressourcen](https://owasp.org/www-project-top-ten/) (Englischsprachige Ressource)
-  - [SANS Institute - Security Awareness Training](https://www.sans.org/cyber-security-awareness/) (Englischsprachige Ressource)
 
 -----
 
