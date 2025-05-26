@@ -1,4 +1,4 @@
-# Schichtenmodelle, z.B. OSI, TCP/IP benennen und zuordnen können: MAC-Adresse
+# MAC-Adresse
 
 ## Einführung
 
@@ -60,7 +60,9 @@ Die MAC-Adresse ist eine physische Adresse, die in der Sicherungsschicht (OSI) b
 ## Links und Quellen
 
 * **Wikipedia - MAC-Adresse:** [https://de.wikipedia.org/wiki/MAC-Adresse](https://de.wikipedia.org/wiki/MAC-Adresse)
-* **IEEE - OUI Public Listing:** [https://standards.ieee.org/ieee-standards-association/resource-center/oui/](https://standards.ieee.org/ieee-standards-association/resource-center/oui/) (Offizielle Liste der OUIs - Englischsprachig)
-* **Cloudflare - What is a MAC address?** [https://www.cloudflare.com/learning/network-layer/what-is-a-mac-address/](https://www.cloudflare.com/learning/network-layer/what-is-a-mac-address/) (Englischsprachig)
-* **Cisco - Understanding Ethernet MAC Address:** [https://www.cisco.com/c/en/us/support/docs/lan-switching/integrated-routing-bridging-irb/10579-61.html](https://www.cisco.com/c/en/us/support/docs/lan-switching/integrated-routing-bridging-irb/10579-61.html) (Englischsprachig)
-* **GeeksforGeeks - MAC Address in Computer Network:** [https://www.geeksforgeeks.org/mac-address-computer-network/](https://www.geeksforgeeks.org/mac-address-computer-network/) (Englischsprachig)
+* **IEEE - OUI Public Listing:** [https://standards.ieee.org/ieee-standards-association/resource-center/oui/](https://standards.ieee.org/
+* **MAC-Adresse:** [https://www.elektronik-kompendium.de/sites/net/1406201.htm](https://www.elektronik-kompendium.de/sites/net/1406201.htm)
+
+-----
+
+> **Fehler gefunden?** Falls du hier auf dieser Seite einen inhaltlichen Fehler gefunden hast, verwende bitte unten die "Fehler melden"-Funktion.

@@ -1,4 +1,4 @@
-# Schichtenmodelle, z.B. OSI, TCP/IP benennen und zuordnen können: IPv4/IPv6
+# IPv4/IPv6
 
 ## Einführung
 
@@ -83,22 +83,20 @@ IPv4 und IPv6 sind die zentralen Protokolle der Netzwerkschicht (OSI) bzw. der I
 
 **Allgemein zu Schichtenmodellen (OSI und TCP/IP):**
 
-* [BSI - Schichtenmodelle](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/Netzwerkmodelle/netzwerkmodelle_node.html)
 * [Wikipedia - OSI-Modell](https://de.wikipedia.org/wiki/OSI-Modell)
-* [Wikipedia - TCP/IP-Modell](https://de.wikipedia.org/wiki/TCP/IP-Modell)
-* [Cisco - The OSI Model's Seven Layers](https://www.cisco.com/c/en/us/support/docs/ip/routing/10558-21.html)
-* [Cloudflare - What is the OSI model?](https://www.cloudflare.com/learning/network-layer/what-is-the-osi-model/)
+* [Wikipedia - TCP/IP-Modell](https://de.wikipedia.org/wiki/Transmission_Control_Protocol/Internet_Protocol)
+* [OSI/Schichtenmodell](https://www.elektronik-kompendium.de/sites/kom/0301201.htm)
 
 **Spezifisch zu IPv4:**
 
 * [Wikipedia - IPv4](https://de.wikipedia.org/wiki/IPv4)
 * [RFC 791 - Internet Protocol](https://datatracker.ietf.org/doc/html/rfc791)
-* [Cloudflare - What is IPv4?](https://www.cloudflare.com/learning/network-layer/what-is-ipv4/)
 
 **Spezifisch zu IPv6:**
 
 * [Wikipedia - IPv6](https://de.wikipedia.org/wiki/IPv6)
 * [RFC 8200 - Internet Protocol, Version 6 (IPv6) Specification](https://datatracker.ietf.org/doc/html/rfc8200)
-* [BSI - IPv6](https://www.bsi.bund.de/DE/Themen/Cyber-Sicherheit/Sicherheit-fuer-Unternehmen/Grundlagen/IPv6/ipv6_node.html)
-* [Google - Learn about IPv6](https://ipv6.google.com/learn-more.html)
-* [Cloudflare - What is IPv6?](https://www.cloudflare.com/learning/network-layer/what-is-ipv6/)
+
+-----
+
+> **Fehler gefunden?** Falls du hier auf dieser Seite einen inhaltlichen Fehler gefunden hast, verwende bitte unten die "Fehler melden"-Funktion.
