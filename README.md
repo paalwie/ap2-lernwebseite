@@ -1,37 +1,109 @@
-# Todo:
-- "Fehler melden"-Funktion
-- Optische Anpassung, was für Links aktiv sind
-- Pfad anpassen, wen man auf .../content ist damit es keinen Fehler beim reloaden gibt
-- Inhalt hinzufügen
+# AP2-Lernwebseite
 
-# Updaten auf Netlify
+> Lernplattform zur Vorbereitung auf die AP2-Prüfung für Fachinformatiker Anwendungsentwicklung <br>
+> Link: https://ap2-lernwebseite.netlify.app/content
 
-git add . <br>
-git commit -m "Commit-Nachricht" <br>
-git push <br>
-📦 Netlify sollte nach 1–2 Minuten deine Änderung online zeigen.
+## 📚 Über das Projekt
 
-# Seite anzeigen
+Eine Angular-basierte Webseite mit strukturierten Lernmaterialien für die Abschlussprüfung Teil 2 (AP2) der FIAE-Ausbildung. Die Seite ist auf [Netlify](https://www.netlify.com/) gehostet und bietet eine übersichtliche Navigation durch verschiedene Themenbereiche.
 
-netlify open:site<p>
-in Konsole eingeben und auf Link klicken
+## 🛠️ Technologien
 
-# Ap2Lernwebseite
+- **Angular** 19.2.3
+- **TypeScript** (~50%)
+- **CSS** (~36%)
+- **HTML** (~12%)
+- **Netlify** für Hosting
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
+## 🚀 Installation & Entwicklung
 
-## Development server
+### Voraussetzungen
+- Node.js (LTS-Version empfohlen)
+- npm oder yarn
+- Angular CLI: `npm install -g @angular/cli`
 
-To start a local development server, run:
+### Lokale Entwicklung
 
 ```bash
+# Repository klonen
+git clone https://github.com/paalwie/ap2-lernwebseite.git
+cd ap2-lernwebseite
+
+# Dependencies installieren
+npm install
+
+# Development Server starten
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Die Anwendung läuft dann auf `http://localhost:4200/` und lädt automatisch neu bei Änderungen.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+## 📦 Deployment auf Netlify
 
-## Additional Resources
+### Automatisches Deployment via Git
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+```bash
+# Änderungen committen
+git add .
+git commit -m "Deine Commit-Nachricht"
+
+# Zu GitHub pushen
+git push
+```
+
+📦 **Netlify deployt automatisch nach 1–2 Minuten.**
+
+### Seite öffnen
+
+```bash
+netlify open:site
+```
+
+Führe diesen Befehl in der Konsole aus und klicke auf den generierten Link.
+
+## ✅ Todo-Liste
+
+- [ ] "Fehler melden"-Funktion implementieren
+- [ ] Optische Anpassung: Aktive Links hervorheben
+- [ ] Routing-Pfad für `/content` anpassen (Reload-Fix)
+- [ ] Mehr Lerninhalte hinzufügen
+
+## 📂 Projektstruktur
+
+```
+ap2-lernwebseite/
+├── src/
+│   ├── app/              # Angular Components
+│   ├── assets/           # Statische Dateien
+│   └── environments/     # Umgebungskonfigurationen
+├── public/               # Öffentliche Dateien
+├── netlify.toml          # Netlify-Konfiguration
+├── angular.json          # Angular-Projektkonfiguration
+└── package.json          # Dependencies
+```
+
+## 🔧 Nützliche Befehle
+
+```bash
+# Build für Produktion
+ng build
+
+# Tests ausführen
+ng test
+
+# Code-Qualität prüfen
+ng lint
+
+# Markdown-Struktur generieren (Custom Script)
+node generateMarkdownStructure.js
+```
+
+## 📝 Weitere Informationen
+
+Für detaillierte Infos zur Angular CLI:
+- [Angular CLI Dokumentation](https://angular.dev/tools/cli)
+- [Angular CLI Command Reference](https://angular.dev/cli)
+
+## 🤝 Beitragen
+
+Issues und Pull Requests sind willkommen!
